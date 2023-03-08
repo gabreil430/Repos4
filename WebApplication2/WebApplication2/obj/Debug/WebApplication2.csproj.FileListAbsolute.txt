@@ -1,0 +1,843 @@
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\lab201\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\lab201\Desktop\git gabriel\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\lab201\Desktop\Top 10 git hubs\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\lab201\Desktop\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\WebApplication2.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\WebGrease.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\pt-br\System.Web.Optimization.resources.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\MySqlConnector.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\System.Buffers.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\System.Memory.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\System.Numerics.Vectors.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\System.Threading.Tasks.Extensions.dll
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\MySqlConnector.xml
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\System.Buffers.xml
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\System.Memory.xml
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\System.Numerics.Vectors.xml
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Ana e Emilly\TCC\TCC idosos\WebApplication2\WebApplication2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\MySqlConnector.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\System.Buffers.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\System.Memory.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\System.Numerics.Vectors.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\MySqlConnector.xml
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\System.Buffers.xml
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\System.Memory.xml
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\System.Numerics.Vectors.xml
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\Serilog.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\Serilog.Sinks.File.dll
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\Serilog.xml
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\Serilog.Sinks.File.pdb
+C:\Users\lab201\Desktop\WebApplication2\WebApplication2\bin\Serilog.Sinks.File.xml
+E:\oi\TCC\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+E:\oi\TCC\WebApplication2\WebApplication2\bin\WebApplication2.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+E:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+E:\oi\TCC\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\MySqlConnector.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\Serilog.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\Serilog.Sinks.File.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\System.Buffers.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\System.Diagnostics.DiagnosticSource.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\System.Memory.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\System.Numerics.Vectors.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\System.Threading.Tasks.Extensions.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\WebGrease.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\MySqlConnector.xml
+E:\oi\TCC\WebApplication2\WebApplication2\bin\Serilog.xml
+E:\oi\TCC\WebApplication2\WebApplication2\bin\Serilog.Sinks.File.pdb
+E:\oi\TCC\WebApplication2\WebApplication2\bin\Serilog.Sinks.File.xml
+E:\oi\TCC\WebApplication2\WebApplication2\bin\System.Buffers.xml
+E:\oi\TCC\WebApplication2\WebApplication2\bin\System.Diagnostics.DiagnosticSource.xml
+E:\oi\TCC\WebApplication2\WebApplication2\bin\System.Memory.xml
+E:\oi\TCC\WebApplication2\WebApplication2\bin\System.Numerics.Vectors.xml
+E:\oi\TCC\WebApplication2\WebApplication2\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\oi\TCC\WebApplication2\WebApplication2\bin\System.Threading.Tasks.Extensions.xml
+E:\oi\TCC\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+E:\oi\TCC\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+E:\oi\TCC\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+E:\oi\TCC\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\oi\TCC\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\oi\TCC\WebApplication2\WebApplication2\bin\pt-br\System.Web.Optimization.resources.dll
+E:\oi\TCC\WebApplication2\WebApplication2\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\oi\TCC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+E:\oi\TCC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+E:\oi\TCC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+E:\oi\TCC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+E:\oi\TCC\WebApplication2\WebApplication2\bin\System.ValueTuple.dll
+E:\oi\TCC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+K:\oi\TCC\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+K:\oi\TCC\WebApplication2\WebApplication2\bin\WebApplication2.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+K:\oi\TCC\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+K:\oi\TCC\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\MySqlConnector.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\Serilog.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\Serilog.Sinks.File.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\System.Buffers.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\System.Diagnostics.DiagnosticSource.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\System.Memory.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\System.Numerics.Vectors.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\System.Runtime.CompilerServices.Unsafe.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\System.Threading.Tasks.Extensions.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\WebGrease.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\System.ValueTuple.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\MySqlConnector.xml
+K:\oi\TCC\WebApplication2\WebApplication2\bin\Serilog.xml
+K:\oi\TCC\WebApplication2\WebApplication2\bin\Serilog.Sinks.File.pdb
+K:\oi\TCC\WebApplication2\WebApplication2\bin\Serilog.Sinks.File.xml
+K:\oi\TCC\WebApplication2\WebApplication2\bin\System.Buffers.xml
+K:\oi\TCC\WebApplication2\WebApplication2\bin\System.Diagnostics.DiagnosticSource.xml
+K:\oi\TCC\WebApplication2\WebApplication2\bin\System.Memory.xml
+K:\oi\TCC\WebApplication2\WebApplication2\bin\System.Numerics.Vectors.xml
+K:\oi\TCC\WebApplication2\WebApplication2\bin\System.Runtime.CompilerServices.Unsafe.xml
+K:\oi\TCC\WebApplication2\WebApplication2\bin\System.Threading.Tasks.Extensions.xml
+K:\oi\TCC\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+K:\oi\TCC\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+K:\oi\TCC\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+K:\oi\TCC\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+K:\oi\TCC\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\oi\TCC\WebApplication2\WebApplication2\bin\pt-br\System.Web.Optimization.resources.dll
+K:\oi\TCC\WebApplication2\WebApplication2\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+K:\oi\TCC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+K:\oi\TCC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+K:\oi\TCC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+K:\oi\TCC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+K:\oi\TCC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\MySqlConnector.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\Serilog.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\Serilog.Sinks.File.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\System.Buffers.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\System.Memory.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\System.Numerics.Vectors.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\System.ValueTuple.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\MySqlConnector.xml
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\Serilog.xml
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\Serilog.Sinks.File.pdb
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\Serilog.Sinks.File.xml
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\System.Buffers.xml
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\System.Memory.xml
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\System.Numerics.Vectors.xml
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\LAB201.SERVEDUC\Desktop\TCC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\MySqlConnector.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\Serilog.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\Serilog.Sinks.File.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\System.Buffers.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\System.Memory.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\System.Numerics.Vectors.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\System.ValueTuple.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\MySqlConnector.xml
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\Serilog.xml
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\Serilog.Sinks.File.pdb
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\Serilog.Sinks.File.xml
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\System.Buffers.xml
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\System.Memory.xml
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\System.Numerics.Vectors.xml
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Particular\Desktop\TCC-repositorio-v3-Douglas\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
