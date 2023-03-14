@@ -401,7 +401,7 @@
             <header>
                 <div class="image-text">
                     <span class="image">
-                        <a href="Paginas/Perfil.aspx"><img src="img" width="70" height="50" style="border-radius:50%" class="foto_perfil" alt="Foto de perfil"></a>
+                        <a href="~/Perfil.aspx"><img src="img" width="70" height="50" style="border-radius:50%" class="foto_perfil" alt="Foto de perfil"></a>
                     </span>
 
                     <div class="text logo-text">
