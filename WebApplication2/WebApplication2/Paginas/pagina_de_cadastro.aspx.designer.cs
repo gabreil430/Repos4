@@ -40,6 +40,15 @@ namespace WebApplication2.Paginas {
         protected global::System.Web.UI.WebControls.TextBox txtIdade;
         
         /// <summary>
+        /// Controle Textbox1.
+        /// </summary>
+        /// <remarks>
+        /// Campo gerado automaticamente.
+        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox Textbox1;
+        
+        /// <summary>
         /// Controle txtEmail.
         /// </summary>
         /// <remarks>
