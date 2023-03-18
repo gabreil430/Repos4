@@ -13,6 +13,15 @@ namespace WebApplication2 {
     public partial class _Default {
         
         /// <summary>
+        /// Controle lblNome.
+        /// </summary>
+        /// <remarks>
+        /// Campo gerado automaticamente.
+        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblNome;
+        
+        /// <summary>
         /// Controle Button2.
         /// </summary>
         /// <remarks>

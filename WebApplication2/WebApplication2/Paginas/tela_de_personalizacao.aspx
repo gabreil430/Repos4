@@ -20,7 +20,7 @@
           </div>
 
 <p style="height: 200px"></p>
- <h5>Precisamos de mais informações suas. Por favor, preencha os campos a seguir: </h5> <br />
+ <h5>Por favor, preencha os campos a seguir para que seu perfil fique ainda mais completo e útil para quem visita-lo: </h5> <br />
 
      <div class="col-lg-4" >        
          <br />
@@ -82,7 +82,8 @@
 
         <p style="height: 10px"></p>
         <h5>Descrição: </h5> <br />
-        <asp:Label runat="server" Text="Esta é uma das partes mais importantes do seu perfil. Informe suas necessidades e particularidades (como deficiências e medicações). Se preciso, especifique dados mensionados acima. Lembre-se que uma boa descrição auxiliará a encontrar o(a) cuidador(a) mais adequado." ID="Label1"></asp:Label><br />
+        <asp:Label runat="server" Text="Esta é uma das partes mais importantes do seu perfil. Informe suas necessidades e particularidades (como deficiências e medicações).
+         Se preciso, especifique dados mensionados acima. Lembre-se que uma boa descrição auxiliará a encontrar o(a) cuidador(a) mais adequado para suas necessidades." ID="Label1"></asp:Label><br />
         <asp:TextBox runat="server" ID="TxtDescricao" TextMode="MultiLine" Rows="5"></asp:TextBox><br /><br />
 
        

@@ -357,19 +357,6 @@
        <div class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" runat="server" href="~/">Nome do aplicativo</a>
-                </div>
-                <div class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav">
-                        <li><a runat="server" href="~/">Página inicial</a></li>
-                        <li><a runat="server" href="~/About">Sobre</a></li>
-                        <li><a runat="server" href="~/Contact">Contato</a></li>
-                  </ul>
                 </div>
             </div>
         </div>
@@ -422,7 +409,7 @@
 
                 <ul class="menu-links">
                        <li class="nav-link">
-                        <a href="Paginas/Lista de perfis.aspx">
+                        <a href="../Paginas/Lista de perfis.aspx">
                             <i class='bx bx-home-alt icon' ></i>
                             <span class="text nav-text">Perfis</span>
                             <ul class="collapse list-unstyled">
@@ -432,21 +419,21 @@
                     </li>
 
                     <li class="nav-link">
-                        <a href="Paginas/Perfil.aspx">
+                        <a href="../Paginas/Perfil.aspx">
                             <i class='bx bx-bar-chart-alt-2 icon' ></i>
                             <span class="text nav-text">Perfil</span>
                         </a>
                     </li>
 
                     <li class="nav-link">
-                        <a href="Paginas/pagina_de_cadastro.aspx">
+                        <a href="../Paginas/pagina_de_cadastro.aspx">
                             <i class='bx bx-bell icon'></i>
                             <span class="text nav-text">Cadastro</span>
                         </a>
                     </li>
 
                     <li class="nav-link">
-                        <a href="Default.aspx.cs">
+                        <a href="../Default.aspx.cs">
                             <i class='bx bx-bell icon'></i>
                             <span class="text nav-text">Produtos</span>
                         </a>
@@ -467,7 +454,7 @@
                     </li>
 
                     <li class="nav-link">
-                        <a href="/Supervisor/Suporte.aspx">
+                        <a href="../Supervisor/Suporte.aspx">
                             <i class='bx bx-heart icon' ></i>
                             <span class="text nav-text">Suporte</span>
                         </a>
@@ -485,7 +472,7 @@
 
             <div class="bottom-content">
                 <li class="">
-                    <a href="/Login/Logar.aspx">
+                    <a href="../Login/Logar.aspx">
                         <i class='bx bx-log-out icon' ></i>
                         <span class="text nav-text">Sair</span>
                     </a>
