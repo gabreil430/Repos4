@@ -13,6 +13,24 @@ namespace WebApplication2.Paginas {
     public partial class tela_de_personalizacao {
         
         /// <summary>
+        /// Controle ImgArquivo.
+        /// </summary>
+        /// <remarks>
+        /// Campo gerado automaticamente.
+        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlInputFile ImgArquivo;
+        
+        /// <summary>
+        /// Controle ImgEnviar.
+        /// </summary>
+        /// <remarks>
+        /// Campo gerado automaticamente.
+        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlInputSubmit ImgEnviar;
+        
+        /// <summary>
         /// Controle TxtIdade.
         /// </summary>
         /// <remarks>
