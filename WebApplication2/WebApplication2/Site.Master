@@ -354,12 +354,12 @@
             </Scripts>
         </asp:ScriptManager>
 
-       <div class="navbar navbar-inverse navbar-fixed-top">
+<%--       <div class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
                 </div>
             </div>
-        </div>
+        </div>--%>
 
    <%--     <nav class="navbar navbar-inverse">
   <div class="container-fluid">
@@ -392,7 +392,7 @@
                     </span>
 
                     <div class="text logo-text">
-                        <a href="Paginas/Lista de perfis.aspx.cs" style="text-decoration:none; color:black"><span class="name"><asp:Label runat="server" ID="lblNome">ayoo</asp:Label></span></a>
+                        <a href="Paginas/Lista de perfis.aspx.cs" style="text-decoration:none; color:black"><span class="name"><asp:Label runat="server" ID="lblNome"></asp:Label></span></a>
                     </div>
                 </div>
 
@@ -472,7 +472,7 @@
 
             <div class="bottom-content">
                 <li class="">
-                    <a href="../Login/Logar.aspx">
+                    <a href="/Default.aspx">
                         <i class='bx bx-log-out icon' ></i>
                         <span class="text nav-text">Sair</span>
                     </a>
@@ -508,5 +508,47 @@
         </div>
 
     </form>
+
+    <script>
+const body = document.querySelector('body'),
+        sidebar = body.querySelector('nav'),
+        toggle = body.querySelector(".toggle"),
+        searchBtn = body.querySelector(".search-box"),
+        modeSwitch = body.querySelector(".toggle-switch"),
+        modeText = body.querySelector(".mode-text");
+
+
+        toggle.addEventListener("click" , () =>{
+            sidebar.classList.toggle("close");
+        })
+
+        searchBtn.addEventListener("click" , () =>{
+            sidebar.classList.remove("close");
+        })
+
+        modeSwitch.addEventListener("click" , () =>{
+            body.classList.toggle("dark");
+    
+            if(body.classList.contains("dark")){
+                modeText.innerText = "Light mode";
+            }else{
+                modeText.innerText = "Dark mode";
+        
+            }
+        });
+
+        function openNav() {
+            if (typeof (Storage) !== "undefined") {
+                localStorage.setItem("sidebar", "opened");
+            }
+        }
+
+        function closeNav() {
+            if (typeof (Storage) !== "undefined") {
+                localStorage.setItem("sidebar", "closed");
+            }
+        }
+    </script>
+
 </body>
 </html>
