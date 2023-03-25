@@ -20,7 +20,6 @@ namespace WebApplication2.Paginas
 
         }
 
-        protected void ImgEnviar(object sender, EventArgs e);
-        {}
+       
     }
 }
