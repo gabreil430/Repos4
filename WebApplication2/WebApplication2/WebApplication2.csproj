@@ -153,9 +153,13 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Img\idosotres.webp" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="Img\foto ana.jpeg" />
+    <Content Include="Img\idosaum.jpg" />
+    <Content Include="Img\idosodois.jpg" />
     <Content Include="Paginas\Chat.aspx" />
-    <Content Include="Paginas\Lista de perfis.aspx" />
+    <Content Include="Paginas\Lista_de_perfil.aspx" />
     <Content Include="Paginas\pagina_de_cadastro.aspx" />
     <Content Include="Paginas\Pagina_inicial.aspx" />
     <Content Include="Paginas\Perfil.aspx" />
@@ -215,12 +219,12 @@
     <Compile Include="Paginas\Chat.aspx.designer.cs">
       <DependentUpon>Chat.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Paginas\Lista de perfis.aspx.cs">
-      <DependentUpon>Lista de perfis.aspx</DependentUpon>
+    <Compile Include="Paginas\Lista_de_perfil.aspx.cs">
+      <DependentUpon>Lista_de_perfil.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Paginas\Lista de perfis.aspx.designer.cs">
-      <DependentUpon>Lista de perfis.aspx</DependentUpon>
+    <Compile Include="Paginas\Lista_de_perfil.aspx.designer.cs">
+      <DependentUpon>Lista_de_perfil.aspx</DependentUpon>
     </Compile>
     <Compile Include="Paginas\pagina_de_cadastro.aspx.cs">
       <DependentUpon>pagina_de_cadastro.aspx</DependentUpon>
@@ -282,7 +286,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Img\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

@@ -36,7 +36,7 @@ namespace WebApplication2.Paginas
            
                     connection.Open();
                     var comando = new MySqlCommand($@"INSERT INTO cuidadores (Nome, Idade, Email, Senha) 
-                            VALUES ('{txtNome.Text}' ' ' '{txtSobrenome.Text}', '{txtIdade.Text}', '{txtEmail.Text}', '{txtSenha.Text}')", connection);
+                            VALUES ('{txtNome.Text}' ', ' '{txtSobrenome.Text}', '{txtIdade.Text}', '{txtEmail.Text}', '{txtSenha.Text}')", connection);
                     comando.ExecuteNonQuery();
                     connection.Close();
 

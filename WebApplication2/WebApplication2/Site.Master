@@ -30,8 +30,8 @@
     :root{
         /* ===== Colors ===== */
         --body-color: #fff;
-        --sidebar-color: #3a3b3c;
-        --primary-color: #0a6789;
+        --sidebar-color: #fff;
+        --primary-color: #03e9f4;
         --primary-color-light: #F6F5FF;
         --toggle-color: #DDD;
         --text-color: black;
@@ -55,8 +55,8 @@
     }
 
     body.dark{
-        --body-color: #F9B463;
-        --sidebar-color: #242526;
+        --body-color: #242526; /*Não perdeu*/
+        --sidebar-color: #172031;
         --primary-color: #3a3b3c;
         --primary-color-light: #3a3b3c;
         --toggle-color: #fff;
@@ -392,7 +392,7 @@
                     </span>
 
                     <div class="text logo-text">
-                        <a href="Paginas/Lista de perfis.aspx.cs" style="text-decoration:none; color:black"><span class="name"><asp:Label runat="server" ID="lblNome"></asp:Label></span></a>
+                        <a href="Paginas/Lista_de_perfil.aspx" style="text-decoration:none; color:black"><span class="name"><asp:Label runat="server" ID="lblNome"></asp:Label></span></a>
                     </div>
                 </div>
 
@@ -409,11 +409,11 @@
 
                 <ul class="menu-links">
                        <li class="nav-link">
-                        <a href="../Paginas/Lista de perfis.aspx">
+                        <a href="../Paginas/Lista_de_perfil.aspx">
                             <i class='bx bx-home-alt icon' ></i>
-                            <span class="text nav-text">Perfis</span>
+                            <span class="text nav-text">Explorar</span>
                             <ul class="collapse list-unstyled">
-                                <li>oi</li>
+                                
                             </ul>
                         </a>
                     </li>
@@ -421,37 +421,17 @@
                     <li class="nav-link">
                         <a href="../Paginas/Perfil.aspx">
                             <i class='bx bx-bar-chart-alt-2 icon' ></i>
-                            <span class="text nav-text">Perfil</span>
+                            <span class="text nav-text">Visualizar</span>
                         </a>
                     </li>
 
                     <li class="nav-link">
-                        <a href="../Paginas/pagina_de_cadastro.aspx">
+                        <a href="../Paginas/tela_de_personalizacao.aspx">
                             <i class='bx bx-bell icon'></i>
-                            <span class="text nav-text">Cadastro</span>
+                            <span class="text nav-text">Atualizar conta</span>
                         </a>
                     </li>
-
-                    <li class="nav-link">
-                        <a href="../Default.aspx.cs">
-                            <i class='bx bx-bell icon'></i>
-                            <span class="text nav-text">Produtos</span>
-                        </a>
-                    </li>
-
-                    <li class="nav-link">
-                        <a href="#">
-                            <i class='bx bx-pie-chart-alt icon' ></i>
-                            <span class="text nav-text">Técnico Qualidade</span>
-                        </a>
-                    </li>
-
-                    <li class="nav-link">
-                        <a href="#">
-                            <i class='bx bx-heart icon' ></i>
-                            <span class="text nav-text">Relatório</span>
-                        </a>
-                    </li>
+                 
 
                     <li class="nav-link">
                         <a href="../Supervisor/Suporte.aspx">

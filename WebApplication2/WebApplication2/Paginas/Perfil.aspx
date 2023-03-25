@@ -3,102 +3,95 @@
 
     <!DOCTYPE html>
     <html>
+        <head>
+            <title>Meu perfil</title>
+            <style>
+                .header{
+                    text-align: center;
+                    height: 300px;
+                    padding: 12px;
+                    background-image: url(""); /*colocar uma imagem de fundo/pessoa importa*/
+                }
+
+                .avatar{
+                    width: 200px;
+                    height: 200px;
+                    border-radius: 50%;
+                }
+
+                .nome{
+                    font-size:18px;
+                    margin-top: 14px;
+                    color: #ffff;
+                }
+
+                .contato{
+                    list-style: none;
+                    text-align: center;
+                    padding: 0;
+                }
+
+                .contato l1{
+                    display: inline-block;
+                    margin: 5px;
+                }
+
+                a{
+                    text-decoration:none;
+                    color:#ad0000;
+                }
+
+                a:hover{
+                    color: #dd1919
+                }
+
+                .icon{
+                    width:16px;
+                    height:16px;
+                    display: inline-block;
+                    background-size: cover;
+                }
+
+                .email{
+                    background-image= url("icons/envelope.png");
+                }
+
+                .about{
+                    padding: 10px;
+                    color: #545454;
+                    font-size: 16px;
+                }
+
+                .about p{
+                    color: #545454;
+                    font-size: 16px;
+                }
 
 
-    <style>
-  h1 {color:dimgray; background-color:aquamarine;}
-  
-  textcenter {text-align:center; color:blue;}
+            </style>
+        </head>
+        <body>
+            <div class="header">
+                <img
+                    class="avatar"
+                     scr="" /> <%--banco de dados--%>
+                 
+                    
+                    <h1 class="user-nome">Lucia Maria</h1>
+            </div>
+            <ul class="contato">
+                <li>
+                    <a href="mailto:luciamaria@gmail.com">luciamaria@gmail.com</a>
+                </li>
+            </ul>
+            <div class="about">
+                <h3>Sobre mim</h3>
+                <p>
+                    Em busca de um profissional que possa me fazer companhia...
+                </p>
+            </div>
+        </body>
 
-  .lbl {
-    font-size: larger;
-    position:absolute;
-    text-align:center;
-    bottom:0;
-    width:100%;
-    left:10%;
-  }
-  
-
-    </style>
-
-
-
-
-    <head>
-        <style>
-  @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
-</style>
-
-
-        <style type="text/css" title="miltinestilo1" media="all">
-
-            *    {
-                font-family: 'Ubuntu', sans-serif;
-                margin:0;
-                text-align:0;
-            }
-
-            body {
-                font-family: 'Ubuntu', sans-serif;
-            }
-
-
-            header {
-                background-color:aquamarine;
-            }
-            .ico {
-                padding-top: 15px;
-                width:40px;
-                border-radius: 10%;
-                /*filter: grayscale(1) (deixa a imagem de perfil cinza) */
-            }
-            .about {
-                background-color:lightgray;
-                margin-left :200px;
-                margin-right :200px;
-                margin-top: 10px;
-                padding: 10px;
-            }
-        </style>
-
-
-    </head>
-
-    <body>
-
-<div class="header">
-<h1 style="text-align:center" >Perfil</h1>
-    
-    <p runat="server" style="text-align:center" >idoso full time</p> <%--(Conectar com banco de dados)--%>
-
-    <img src="../img_girl.png" alt="Imagem de perfil"><%-- (Fazer imagens conectadas com o banco de dados, as imagens de perfil vão ser recebidas na pagina de
-    Personalização de usuario)--%>
-
-</div>
-        <br>
-
-
-        <div class="about">
-            <h2>Sobre mim</h2>
-            <p>BLA BLA BLA</p> <%--(Conectar ao banco de dados)--%>
-
-        </div>
-
-        <div>
-            Detalhes
-                <span>Nome:</span>        <p></p>
-                <span>Idade:</span>       <p></p>
-                <span>Localização:</span> <p></p>
-
-
-
-
-        </div>
-
-
-
-    </body>
 
     </html>
 

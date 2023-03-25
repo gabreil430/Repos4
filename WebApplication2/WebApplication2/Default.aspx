@@ -18,7 +18,7 @@
             <div class="box-user" style="margin-top:10px;margin-left: 5vh;" >
                 <p style="color:white">Senha:</p>
                 <label style="color:white; margin-right: 9px;"></label>
-                 <asp:TextBox runat="server" Text=""> </asp:TextBox>
+                 <asp:TextBox runat="server" Text="" TextMode="Password"> </asp:TextBox>
             </div>
             <div>
                 <a href="#" class="forget" style="margin-top: 2vh;margin-left: 15vh;">Esqueceu sua senha?</a>
