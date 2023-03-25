@@ -49,10 +49,12 @@
 
          <asp:Label runat="server" Text="Sexo:" ID="lblSexo"></asp:Label><br />
           
-        <form>
-    <input type="radio" name="season" value="Feminino" checked>Feminino<br />
-    <input type="radio" name="season" value="Masculino">Masculino   
-        </form>
+        <asp:RadioButtonList runat="server" ID="rdogenero">
+        <asp:ListItem Value="Feminino" Text="Feminino"></asp:ListItem>
+        <asp:ListItem Value="Masculino" Text="Masculino"></asp:ListItem>
+        <asp:ListItem Value="Outro" Text="Outro"></asp:ListItem>
+        </asp:RadioButtonList>
+
          <br /> <br />
                 </div>
 
@@ -62,28 +64,7 @@
          <br /> <br />
 
          <h5>Dias da semana: </h5> <br />
-         <div class="row">
-         <form>
-         <input type="radio" name="season" value="D">D 
-         </form>
-         <form>
-         <input type="radio" name="season" value="S1">S 
-         </form>
-         <form>
-         <input type="radio" name="season" value="T">T 
-         </form>
-         <form>
-         <input type="radio" name="season" value="Q1" >Q 
-         </form>
-         <form>
-         <input type="radio" name="season" value="Q2" >Q 
-         </form>
-         <form>
-         <input type="radio" name="season" value="S2" >S 
-         </form>
-         <form>
-         <input type="radio" name="season" value="S3" >S 
-         </form>
+
          <br />
          </div>
          </div>

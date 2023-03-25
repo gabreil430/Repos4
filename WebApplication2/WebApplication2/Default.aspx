@@ -17,8 +17,8 @@
 
         <br> <h1 style="width:400px">LOGIN</h1><br>
         
-        Email <asp:textbox CssClass="btn-lg" runat="server"  Width="8000px" Text=""></asp:textbox><br><br>
-        Senha <asp:textbox CssClass="btn-lg" runat="server" Width="600px" Text="">  </asp:textbox><br><br>
+        Email <asp:textbox CssClass="btn-lg" ID="txtEmail" runat="server"  Width="8000px" Text=""></asp:textbox><br><br>
+        Senha <asp:textbox CssClass="btn-lg" ID="txtSenha" runat="server" Width="600px" Text="">  </asp:textbox><br><br>
         
         <a href="Paginas/pagina_de_cadastro.aspx"> Criar uma conta</a><br><br>
       
