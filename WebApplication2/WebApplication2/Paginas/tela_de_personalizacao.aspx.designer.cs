@@ -58,6 +58,15 @@ namespace WebApplication2.Paginas {
         protected global::System.Web.UI.WebControls.Label lblSexo;
         
         /// <summary>
+        /// Controle rdogenero.
+        /// </summary>
+        /// <remarks>
+        /// Campo gerado automaticamente.
+        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RadioButtonList rdogenero;
+        
+        /// <summary>
         /// Controle Confirmar_alteração.
         /// </summary>
         /// <remarks>
