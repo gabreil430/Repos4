@@ -1120,3 +1120,7 @@ C:\Users\lab201.SERVEDUC\Desktop\Douglas\Repos4\WebApplication2\WebApplication2\
 C:\Users\lab201.SERVEDUC\Desktop\Douglas\Repos4\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
 C:\Users\lab201.SERVEDUC\Desktop\Douglas\Repos4\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
 C:\Users\lab201.SERVEDUC\Desktop\Douglas\Repos4\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\LAB201.SERVEDUC\Desktop\Tcc Drougras\Repos4\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\LAB201.SERVEDUC\Desktop\Tcc Drougras\Repos4\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\LAB201.SERVEDUC\Desktop\Tcc Drougras\Repos4\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\LAB201.SERVEDUC\Desktop\Tcc Drougras\Repos4\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb

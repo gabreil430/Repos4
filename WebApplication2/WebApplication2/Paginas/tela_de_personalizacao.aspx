@@ -28,11 +28,16 @@
         <%-- Foto de perfil --%>
          <p>Upload de fotos teste</p>
 
-    <form action="upload.php" method="post" enctype="multipart/form-data"> 
-        <input runat="server" type="file" required name="Arquivo" id="ImgArquivo">
-        <input runat="server" type="submit" value="Salvar" id="ImgEnviar"/>
+         <asp:Button runat="server" ID="ImageSave" OnClick="ImageSave_Click" /> 
         
-    </form>
+
+         <asp:FileUpload
+          
+
+
+
+
+
         <%-- Fim de Foto de perfil--%>
             
          <h5>Idade: </h5> <br />
