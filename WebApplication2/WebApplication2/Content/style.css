@@ -9,7 +9,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #172031;
+    background-color: white;
 }
 .login{
     background: rgba(0,0,0,.5);
@@ -160,3 +160,64 @@ body{
         width: 90%;
     }
 }
+
+.header {
+    text-align: center;
+    height: 300px;
+    padding: 12px;
+    background-image: url(""); /*colocar uma imagem de fundo/pessoa importa*/
+}
+
+.avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.nome {
+    font-size: 18px;
+    margin-top: 14px;
+    color: white;
+}
+
+.contato {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+
+    .contato l1 {
+        display: inline-block;
+        margin: 5px;
+    }
+
+a {
+    text-decoration: none;
+    color: #ad0000;
+}
+
+    a:hover {
+        color: #dd1919
+    }
+
+.icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    background-size: cover;
+}
+
+.email {
+    background-image = url("icons/envelope.png");
+}
+
+.about {
+    padding: 10px;
+    color: #545454;
+    font-size: 16px;
+}
+
+    .about p {
+        color: #545454;
+        font-size: 16px;
+    }

@@ -12,13 +12,13 @@
             <div class="box-user" style="margin-left: 5vh;">
                 <p style="color:white">Usuário:</p>
                 <label style="color:white"></label>
-                <asp:TextBox runat="server" id="TextBox1"></asp:TextBox>
+                <asp:TextBox runat="server" id="txtEmail"></asp:TextBox>
                 
             </div>
             <div class="box-user" style="margin-top:10px;margin-left: 5vh;" >
                 <p style="color:white">Senha:</p>
                 <label style="color:white; margin-right: 9px;"></label>
-                 <asp:TextBox runat="server" Text="" TextMode="Password"> </asp:TextBox>
+                 <asp:TextBox runat="server" Text="" TextMode="Password" ID="txtSenha"> </asp:TextBox>
             </div>
             <div>
                 <a href="#" class="forget" style="margin-top: 2vh;margin-left: 15vh;">Esqueceu sua senha?</a>
