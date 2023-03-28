@@ -30,8 +30,8 @@
     :root{
         /* ===== Colors ===== */
         --body-color: #fff;
-        --sidebar-color: #3a3b3c;
-        --primary-color: #0a6789;
+        --sidebar-color: #fff;
+        --primary-color: #03e9f4;
         --primary-color-light: #F6F5FF;
         --toggle-color: #DDD;
         --text-color: black;
@@ -55,8 +55,8 @@
     }
 
     body.dark{
-        --body-color: #F9B463;
-        --sidebar-color: #242526;
+        --body-color: #242526; /*Não perdeu*/
+        --sidebar-color: #172031;
         --primary-color: #3a3b3c;
         --primary-color-light: #3a3b3c;
         --toggle-color: #fff;
@@ -354,25 +354,12 @@
             </Scripts>
         </asp:ScriptManager>
 
-       <div class="navbar navbar-inverse navbar-fixed-top">
+<%--       <div class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" runat="server" href="~/">Nome do aplicativo</a>
-                </div>
-                <div class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav">
-                        <li><a runat="server" href="~/">Página inicial</a></li>
-                        <li><a runat="server" href="~/About">Sobre</a></li>
-                        <li><a runat="server" href="~/Contact">Contato</a></li>
-                  </ul>
                 </div>
             </div>
-        </div>
+        </div>--%>
 
    <%--     <nav class="navbar navbar-inverse">
   <div class="container-fluid">
@@ -405,7 +392,7 @@
                     </span>
 
                     <div class="text logo-text">
-                        <a href="Paginas/Lista de perfis.aspx.cs" style="text-decoration:none; color:black"><span class="name"><asp:Label runat="server" ID="lblNome">ayoo</asp:Label></span></a>
+                        <a href="Paginas/Lista_de_perfil.aspx" style="text-decoration:none; color:black"><span class="name"><asp:Label runat="server" ID="lblNome"></asp:Label></span></a>
                     </div>
                 </div>
 
@@ -422,52 +409,32 @@
 
                 <ul class="menu-links">
                        <li class="nav-link">
-                        <a href="Paginas/Lista de perfis.aspx">
+                        <a href="../Paginas/Lista_de_perfil.aspx">
                             <i class='bx bx-home-alt icon' ></i>
-                            <span class="text nav-text">Perfis</span>
+                            <span class="text nav-text">Explorar</span>
                             <ul class="collapse list-unstyled">
-                                <li>oi</li>
+                                
                             </ul>
                         </a>
                     </li>
 
                     <li class="nav-link">
-                        <a href="Paginas/Perfil.aspx">
+                        <a href="../Paginas/Perfil.aspx">
                             <i class='bx bx-bar-chart-alt-2 icon' ></i>
-                            <span class="text nav-text">Perfil</span>
+                            <span class="text nav-text">Visualizar</span>
                         </a>
                     </li>
 
                     <li class="nav-link">
-                        <a href="Paginas/pagina_de_cadastro.aspx">
+                        <a href="../Paginas/tela_de_personalizacao.aspx">
                             <i class='bx bx-bell icon'></i>
-                            <span class="text nav-text">Cadastro</span>
+                            <span class="text nav-text">Atualizar conta</span>
                         </a>
                     </li>
+                 
 
                     <li class="nav-link">
-                        <a href="Default.aspx.cs">
-                            <i class='bx bx-bell icon'></i>
-                            <span class="text nav-text">Produtos</span>
-                        </a>
-                    </li>
-
-                    <li class="nav-link">
-                        <a href="#">
-                            <i class='bx bx-pie-chart-alt icon' ></i>
-                            <span class="text nav-text">Técnico Qualidade</span>
-                        </a>
-                    </li>
-
-                    <li class="nav-link">
-                        <a href="#">
-                            <i class='bx bx-heart icon' ></i>
-                            <span class="text nav-text">Relatório</span>
-                        </a>
-                    </li>
-
-                    <li class="nav-link">
-                        <a href="/Supervisor/Suporte.aspx">
+                        <a href="../Supervisor/Suporte.aspx">
                             <i class='bx bx-heart icon' ></i>
                             <span class="text nav-text">Suporte</span>
                         </a>
@@ -485,7 +452,7 @@
 
             <div class="bottom-content">
                 <li class="">
-                    <a href="/Login/Logar.aspx">
+                    <a href="/Default.aspx">
                         <i class='bx bx-log-out icon' ></i>
                         <span class="text nav-text">Sair</span>
                     </a>
@@ -521,5 +488,47 @@
         </div>
 
     </form>
+
+    <script>
+const body = document.querySelector('body'),
+        sidebar = body.querySelector('nav'),
+        toggle = body.querySelector(".toggle"),
+        searchBtn = body.querySelector(".search-box"),
+        modeSwitch = body.querySelector(".toggle-switch"),
+        modeText = body.querySelector(".mode-text");
+
+
+        toggle.addEventListener("click" , () =>{
+            sidebar.classList.toggle("close");
+        })
+
+        searchBtn.addEventListener("click" , () =>{
+            sidebar.classList.remove("close");
+        })
+
+        modeSwitch.addEventListener("click" , () =>{
+            body.classList.toggle("dark");
+    
+            if(body.classList.contains("dark")){
+                modeText.innerText = "Light mode";
+            }else{
+                modeText.innerText = "Dark mode";
+        
+            }
+        });
+
+        function openNav() {
+            if (typeof (Storage) !== "undefined") {
+                localStorage.setItem("sidebar", "opened");
+            }
+        }
+
+        function closeNav() {
+            if (typeof (Storage) !== "undefined") {
+                localStorage.setItem("sidebar", "closed");
+            }
+        }
+    </script>
+
 </body>
 </html>

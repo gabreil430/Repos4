@@ -139,7 +139,9 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
+    <Content Include="Content\style.css" />
     <Content Include="Default.aspx" />
+    <Content Include="EstiloPadrao\StyleSheet1.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -151,9 +153,13 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Img\idosotres.webp" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="Img\foto ana.jpeg" />
+    <Content Include="Img\idosaum.jpg" />
+    <Content Include="Img\idosodois.jpg" />
     <Content Include="Paginas\Chat.aspx" />
-    <Content Include="Paginas\Lista de perfis.aspx" />
+    <Content Include="Paginas\Lista_de_perfil.aspx" />
     <Content Include="Paginas\pagina_de_cadastro.aspx" />
     <Content Include="Paginas\Pagina_inicial.aspx" />
     <Content Include="Paginas\Perfil.aspx" />
@@ -213,12 +219,12 @@
     <Compile Include="Paginas\Chat.aspx.designer.cs">
       <DependentUpon>Chat.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Paginas\Lista de perfis.aspx.cs">
-      <DependentUpon>Lista de perfis.aspx</DependentUpon>
+    <Compile Include="Paginas\Lista_de_perfil.aspx.cs">
+      <DependentUpon>Lista_de_perfil.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Paginas\Lista de perfis.aspx.designer.cs">
-      <DependentUpon>Lista de perfis.aspx</DependentUpon>
+    <Compile Include="Paginas\Lista_de_perfil.aspx.designer.cs">
+      <DependentUpon>Lista_de_perfil.aspx</DependentUpon>
     </Compile>
     <Compile Include="Paginas\pagina_de_cadastro.aspx.cs">
       <DependentUpon>pagina_de_cadastro.aspx</DependentUpon>
@@ -249,6 +255,13 @@
       <DependentUpon>tela_de_personalizacao.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="LogarIdoso.Master.cs">
+      <DependentUpon>LogarIdoso.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LogarIdoso.Master.designer.cs">
+      <DependentUpon>LogarIdoso.Master</DependentUpon>
+    </Compile>
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -273,12 +286,12 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Img\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.3.1.min.map" />
+    <Content Include="LogarIdoso.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

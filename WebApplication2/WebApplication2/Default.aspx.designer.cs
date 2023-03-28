@@ -31,12 +31,12 @@ namespace WebApplication2 {
         protected global::System.Web.UI.WebControls.TextBox txtSenha;
         
         /// <summary>
-        /// Controle Button2.
+        /// Controle btnEntrar.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button2;
+        protected global::System.Web.UI.WebControls.LinkButton btnEntrar;
     }
 }

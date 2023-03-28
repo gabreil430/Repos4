@@ -29,12 +29,18 @@ namespace WebApplication2.Paginas
 
                 try
                 {
+           
+                    connection.Open();
+                    var comando = new MySqlCommand($@"INSERT INTO cuidadores (Nome, Idade, Email, Senha) 
+                            VALUES ('{txtNome.Text}' ', ' '{txtSobrenome.Text}', '0', '{txtEmail.Text}', '{txtSenha.Text}')", connection);
+                    comando.ExecuteNonQuery();
+                    connection.Close();
 
                     connection.Open();
 
                     if (rdoTipo.SelectedValue == "Cuidador")
                     {
-                            var comando = new MySqlCommand($@"INSERT INTO cuidadores (Nome, DataNascimento, Email, Senha, Telefone) 
+                            comando = new MySqlCommand($@"INSERT INTO cuidadores (Nome, DataNascimento, Email, Senha, Telefone) 
                             VALUES ('{txtNome.Text}' ' ' '{txtSobrenome.Text}', '{txtNascimento.Text}', '{txtEmail.Text}', '{txtSenha.Text}', '{txtTelefone.Text}')", connection);
                             comando.ExecuteNonQuery();
                     }
