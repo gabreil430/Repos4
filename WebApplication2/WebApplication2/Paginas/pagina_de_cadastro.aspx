@@ -27,11 +27,11 @@
             <br>
             <br>
 
-            <asp:TextBox CssClass="btn-lg" runat="server" ID="txtIdade" Width="8000px" placeholder="Dia/Mês/Ano"></asp:TextBox>
+            <asp:TextBox CssClass="btn-lg" runat="server" ID="txtNascimento" Width="8000px" placeholder="Dia/Mês/Ano"></asp:TextBox>
             <br>
             <br>
 
-            <asp:TextBox CssClass="btn-lg" runat="server" ID="Textbox1" Width="8000px" placeholder="Número de telefone"></asp:TextBox>
+            <asp:TextBox CssClass="btn-lg" runat="server" ID="txtTelefone" Width="8000px" placeholder="Número de telefone"></asp:TextBox>
             <br>
             <br>
 
@@ -39,11 +39,11 @@
 
 
             <label>Escolha seu Perfil</label>
-            <br>
-            <form>
-                <input type="radio" name="season" id="RadioIdoso" value="Idoso" checked>Idoso
-    <input type="radio" name="season" id="RadioCuidadoso" value="Cuidador">Cuidador
-            </form>
+            <br>        
+            <asp:RadioButtonList runat="server" ID="rdoTipo">
+            <asp:ListItem Value="Idoso" Text="Idoso"></asp:ListItem>
+            <asp:ListItem Value="Cuidador" Text="Cuidador"></asp:ListItem>
+            </asp:RadioButtonList>
 
         </div>
 
@@ -60,13 +60,13 @@
         <asp:TextBox CssClass="btn-lg" runat="server" ID="txtEmail" Width="8000px" placeholder="Email"></asp:TextBox><br>
         <br>
 
-        <asp:TextBox CssClass="btn-lg" runat="server" Width="8000px" placeholder="Confirmar Email"></asp:TextBox><br>
+        <asp:TextBox CssClass="btn-lg" runat="server" id="txtConfirmarEmail" Width="8000px" placeholder="Confirmar Email"></asp:TextBox><br>
         <br>
 
         <asp:TextBox CssClass="btn-lg" runat="server" ID="txtSenha" Width="600px" placeholder="Senha"></asp:TextBox><br>
         <br>
 
-        <asp:TextBox CssClass="btn-lg" runat="server" Width="600px" placeholder="Confirmar Senha"></asp:TextBox><br>
+        <asp:TextBox CssClass="btn-lg" runat="server" ID="txtConfirmarSenha" Width="600px" placeholder="Confirmar Senha"></asp:TextBox><br>
 
         <br>
         <a href="~/Default.aspx" runat="server">Já tem uma conta? Faça um Login.</a><br>

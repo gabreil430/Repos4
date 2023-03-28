@@ -13,6 +13,15 @@ namespace WebApplication2.Paginas {
     public partial class tela_de_personalizacao {
         
         /// <summary>
+        /// Controle ImageSave.
+        /// </summary>
+        /// <remarks>
+        /// Campo gerado automaticamente.
+        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button ImageSave;
+        
+        /// <summary>
         /// Controle TxtIdade.
         /// </summary>
         /// <remarks>
@@ -38,6 +47,15 @@ namespace WebApplication2.Paginas {
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblSexo;
+        
+        /// <summary>
+        /// Controle rdogenero.
+        /// </summary>
+        /// <remarks>
+        /// Campo gerado automaticamente.
+        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RadioButtonList rdogenero;
         
         /// <summary>
         /// Controle Confirmar_alteração.
