@@ -10,7 +10,7 @@
 namespace WebApplication2.Paginas {
     
     
-    public partial class tela_de_personalizacao {
+    public partial class personalização_cuidador {
         
         /// <summary>
         /// Controle lblEmail.
@@ -164,14 +164,5 @@ namespace WebApplication2.Paginas {
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TxtDescricao;
-        
-        /// <summary>
-        /// Controle btnSalvar.
-        /// </summary>
-        /// <remarks>
-        /// Campo gerado automaticamente.
-        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSalvar;
     }
 }

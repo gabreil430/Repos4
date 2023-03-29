@@ -1,7 +1,5 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="tela_de_personalizacao.aspx.cs" Inherits="WebApplication2.Paginas.tela_de_personalizacao" %>
-<asp:Content ID="Content" ContentPlaceHolderID="MainContent" runat="server">
-   
-    
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/LogarIdoso.Master" AutoEventWireup="true" CodeBehind="personalização_cuidador.aspx.cs" Inherits="WebApplication2.Paginas.personalização_cuidador" %>
+<asp:Content ID="Content" ContentPlaceHolderID="head" runat="server">
 
        <br /><h1 style="text-align:center">PERSONALIZAÇÃO DE PERFIL</h1> <br />
      
@@ -28,7 +26,6 @@
          <asp:Label runat="server" Text="22/04/2005" ID="LblNascimento"></asp:Label><br />
          <br /> <br />
 
-
          <h5>Localização: </h5> <br />
          <asp:TextBox runat="server" ID="TxtLocalizacao"></asp:TextBox>
          <br /> <br />
@@ -51,7 +48,7 @@
 
         
 <div>   
-            <h5>Dias da semana necessários: </h5> <br />            
+            <h5>Dias da semana disponíveis: </h5> <br />            
             <asp:CheckBox ID="CheckBox7" runat="server" Text="D" />  
             <asp:CheckBox ID="CheckBox1" runat="server" Text="S" />  
             <asp:CheckBox ID="CheckBox2" runat="server" Text="T" />  
@@ -69,24 +66,21 @@
     
         <div class="col-lg-4" >
         <p style="height: 45px"></p>
-        <h5>Valor oferecido: </h5> <br /> 
+        <h5>Valor cobrado: </h5> <br /> 
             <asp:Label runat="server" Text=R$ ID="lblRS"></asp:Label>
         <asp:TextBox runat="server" ID="txtValor" ></asp:TextBox><br />            
             <asp:CheckBox ID="cbxNegocio" runat="server" Text="A negociar" />  
 
-       </div>
-        
+       
+        <div/>
 
         <p style="height: 10px"></p>
         <h5>Descrição: </h5> <br />
       
-        <asp:Label runat="server" Text="Esta é uma das partes mais importantes do seu perfil. Informe suas necessidades e particularidades (como deficiências e medicações).
-         Se preciso, especifique dados mensionados acima. Lembre-se que uma boa descrição auxiliará a encontrar o(a) cuidador(a) mais adequado para suas necessidades." ID="Label1"></asp:Label><br />
+        <asp:Label runat="server" Text="Esta é uma das partes mais importantes do seu perfil. Informe suas formações, especificações e diferenciais. Se preciso, especifique dados mensionados acima. Lembre-se que uma boa descrição auxiliará a encontrar o cliente mais adequado para você." ID="Label1"></asp:Label><br />
         <asp:TextBox runat="server" ID="TxtDescricao" TextMode="MultiLine" Rows="5"></asp:TextBox><br /><br />
-
-       
-          <asp:Button  runat="server" Text="Salvar" ID="btnSalvar" OnClick="Confirmar_alteração_Click1" CssClass="btn btn-sucess" />   
+      
+        
 
 </asp:Content>
-
 

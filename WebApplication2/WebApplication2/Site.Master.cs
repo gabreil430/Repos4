@@ -9,7 +9,7 @@ namespace WebApplication2
 {
     public partial class SiteMaster : MasterPage
     {
-        public static string ConnectionString = "Server=127.0.0.1;User ID=root;Password=;Database=tcc1";
+        public static string ConnectionString = "Server=mysql5025.site4now.net; User ID=a95df6_tccbd;Password=TCCBD1234;Database=db_a95df6_tccbd";
         protected void Page_Load(object sender, EventArgs e)
         {
 

@@ -163,6 +163,7 @@
     <Content Include="Paginas\pagina_de_cadastro.aspx" />
     <Content Include="Paginas\Pagina_inicial.aspx" />
     <Content Include="Paginas\Perfil.aspx" />
+    <Content Include="Paginas\personalização_cuidador.aspx" />
     <Content Include="Paginas\tela_de_personalizacao.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -246,6 +247,13 @@
     </Compile>
     <Compile Include="Paginas\Perfil.aspx.designer.cs">
       <DependentUpon>Perfil.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paginas\personalização_cuidador.aspx.cs">
+      <DependentUpon>personalização_cuidador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paginas\personalização_cuidador.aspx.designer.cs">
+      <DependentUpon>personalização_cuidador.aspx</DependentUpon>
     </Compile>
     <Compile Include="Paginas\tela_de_personalizacao.aspx.cs">
       <DependentUpon>tela_de_personalizacao.aspx</DependentUpon>
