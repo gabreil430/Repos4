@@ -21,7 +21,8 @@
                  <asp:TextBox runat="server" Text="" TextMode="Password" ID="txtSenha"> </asp:TextBox>
             </div>
             <div>
-                <a href="#" class="forget" style="margin-top: 2vh;margin-left: 15vh;">Esqueceu sua senha?</a>
+                 <a href="Paginas/pagina_de_cadastro.aspx" class="forget" style="margin-top: 2vh;margin-left: 15vh;">Criar uma conta.</a>
+                <a href="#" class="forget" style="margin-top: 2vh;margin-left: 15vh;">Esqueci minha senha.</a>
             </div>
             <asp:LinkButton runat="server" ID="btnEntrar" OnClick="btnEntrar_Click" CssClass="btn" style="margin-left: 17vh">
    <span></span>

@@ -26,8 +26,14 @@
             <asp:TextBox CssClass="btn-lg" runat="server" ID="txtSobrenome" Width="8000px" placeholder="Sobrenome"></asp:TextBox>
             <br>
             <br>
+            <div>
+            Data De Nascimento
+            <asp:TextBox CssClass="btn-lg" runat="server" ID="NasDia" Width="70px" placeholder="Dia"></asp:TextBox>
+            <asp:TextBox CssClass="btn-lg" runat="server" ID="NasMes" Width="70px" placeholder="Mês"></asp:TextBox>
+            <asp:TextBox CssClass="btn-lg" runat="server" ID="NasAno" Width="70px" placeholder="Ano"></asp:TextBox>
+            </div>
 
-            <asp:TextBox CssClass="btn-lg" runat="server" ID="txtNascimento" Width="8000px" placeholder="Dia/Mês/Ano"></asp:TextBox>
+
             <br>
             <br>
 
@@ -41,8 +47,8 @@
             <label>Escolha seu Perfil</label>
             <br>        
             <asp:RadioButtonList runat="server" ID="rdoTipo">
-            <asp:ListItem Value="Idoso" Text="Idoso"></asp:ListItem>
-            <asp:ListItem Value="Cuidador" Text="Cuidador"></asp:ListItem>
+            <asp:ListItem Value="Idoso" Text="Idoso(a)"></asp:ListItem>
+            <asp:ListItem Value="Cuidador" Text="Cuidador(a)"></asp:ListItem>
             </asp:RadioButtonList>
 
         </div>
