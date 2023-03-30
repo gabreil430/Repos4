@@ -31,29 +31,40 @@ namespace WebApplication2.Paginas
             {
                 connection.Open();
 
-                if (rdoTipo.SelectedValue == "Cuidador")
+                if (txtNome.Text == "" || txtEmail.Text == "" || txtConfirmarSenha.Text == "" || txtConfirmarEmail.Text == "" || NasDia.Text == "" || NasMes.Text == "" || NasAno.Text == "" || txtTelefone.Text == "" || txtSobrenome.Text == "" || rdoTipo.SelectedValue == null)
                 {
-                    var comando = new MySqlCommand($@"INSERT INTO cuidadores (Nome, Nascimento, Email, Senha, Telefone) 
-                            VALUES ('{txtNome.Text}' ' ' '{txtSobrenome.Text}', '{txtNascimento.Text}', '{txtEmail.Text}', '{txtSenha.Text}', '{txtTelefone.Text}')", connection);
-                    comando.ExecuteNonQuery();
+                    SiteMaster.ExibirAlert(this, "Por favor, preencha todos os campos antes de continuar");
                 }
 
-                if (rdoTipo.SelectedValue == "Idoso")
+                else
                 {
-                    var comando1 = new MySqlCommand($@"INSERT INTO idosos (Nome, Nascimento, Email, Senha, Telefone) 
-                        VALUES ('{txtNome.Text}' ' ' '{txtSobrenome.Text}', '{txtNascimento.Text}', '{txtEmail.Text}', '{txtSenha.Text}', '{txtTelefone.Text}')", connection);
-                    comando1.ExecuteNonQuery();
-                }
+                    if (rdoTipo.SelectedValue == "Cuidador")
+                    {
+                        var comando = new MySqlCommand($@"INSERT INTO cuidadores (Nome, Nascimento, Email, Senha, Telefone) 
+                                VALUES ('{txtNome.Text}' ' ' '{txtSobrenome.Text}', '{NasDia.Text}' '/' '{NasMes.Text}' '/' '{NasAno.Text}' , '{txtEmail.Text}', '{txtSenha.Text}', '{txtTelefone.Text}')", connection);
+                        comando.ExecuteNonQuery();
+                    }
 
-                SiteMaster.ExibirAlert(this, "Perfil cadastrado com sucesso!");
-                txtNome.Text = "";
-                txtSobrenome.Text = "";
-                txtNascimento.Text = "";
-                txtEmail.Text = "";
-                txtSenha.Text = "";
-                txtTelefone.Text = "";
-                txtConfirmarEmail.Text = "";
-                txtConfirmarSenha.Text = "";
+                    if (rdoTipo.SelectedValue == "Idoso")
+                    {
+                        var comando1 = new MySqlCommand($@"INSERT INTO idosos (Nome, Nascimento, Email, Senha, Telefone) 
+                            VALUES ('{txtNome.Text}' ' ' '{txtSobrenome.Text}', '{NasDia.Text}' '/' '{NasMes.Text}' '/' '{NasAno.Text}' , '{txtEmail.Text}', '{txtSenha.Text}', '{txtTelefone.Text}')", connection);
+                        comando1.ExecuteNonQuery();
+                    }
+
+                    SiteMaster.ExibirAlert(this, "Perfil cadastrado com sucesso!");
+                    txtNome.Text = "";
+                    txtSobrenome.Text = "";
+                    NasDia.Text = "";
+                    NasMes.Text = "";
+                    NasAno.Text = "";
+                    txtEmail.Text = "";
+                    txtSenha.Text = "";
+                    txtTelefone.Text = "";
+                    txtConfirmarEmail.Text = "";
+                    txtConfirmarSenha.Text = "";      
+                }       
+
                 connection.Close();
 
             }
