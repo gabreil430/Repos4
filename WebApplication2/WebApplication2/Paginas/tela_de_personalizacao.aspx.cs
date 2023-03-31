@@ -65,7 +65,7 @@ namespace WebApplication2.Paginas
             }
             if (CheckBox1.Checked)
             {
-               s1 = 1;
+                s1 = 1;
             }
             if (CheckBox2.Checked)
             {
@@ -115,7 +115,40 @@ namespace WebApplication2.Paginas
 
             comando1.ExecuteNonQuery();
             connection2.Close();
-        }
+
+
             
+
+
+            
+        }
+
+        protected void SaveImage_Click(object sender, EventArgs e)
+        {
+            
+        
+        
+
+            string ID = Session["IDlogin"].ToString();
+            string Tipo = Session["Tipologin"].ToString();
+
+
+
+            var caminho = Server.MapPath("~") + "/img";
+            if (file.HasFile)
+            {
+                if (Tipo == "idosos")
+                {
+                    file.SaveAs(caminho + "/" + ID + ".ijpg");
+                }
+
+                if (Tipo == "cuidadores")
+                {
+                    file.SaveAs(caminho + "/" + ID + "c.jpg");
+                }
+            }
+
+            img.ImageUrl = caminho + "/" + ID + ".jpg";
+        }
     }
 }

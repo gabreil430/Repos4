@@ -4,6 +4,18 @@
     
 
        <br /><h1 style="text-align:center">PERSONALIZAÇÃO DE PERFIL</h1> <br />
+
+
+    <style>
+        img.a {
+  text-align: center;
+}
+
+    </style>
+          <asp:Image runat="server" ID="img" CssClass="img.a"  />
+
+
+
      
           <div class="col-lg-8"></div>
 
@@ -84,7 +96,11 @@
             <asp:ListItem Text="Por mês" Value="Por mês"/>
             </asp:DropDownList>
              <br> <asp:CheckBox ID="cbxNegocio" runat="server" Text="A negociar" /> 
+            <br />
 
+            <asp:FileUpload runat="server" ID="file" />
+            
+            <asp:Button  runat="server" Text="Salvar" ID="SaveImage" OnClick="SaveImage_Click" CssClass="btn btn-sucess"/>   
 
 
 
