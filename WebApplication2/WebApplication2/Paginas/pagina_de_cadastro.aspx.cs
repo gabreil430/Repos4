@@ -26,17 +26,37 @@ namespace WebApplication2.Paginas
                     restrictedToMinimumLevel: Serilog.Events.LogEventLevel.Information,
                     rollingInterval: RollingInterval.Hour)
                     .CreateLogger();
-
+            int ano = Convert.ToInt32(NasAno.Text);
             try
             {
                 connection.Open();
 
-                if (txtNome.Text == "" || txtEmail.Text == "" || txtConfirmarSenha.Text == "" || txtConfirmarEmail.Text == "" || NasDia.Text == "" || NasMes.Text == "" || NasAno.Text == "" || txtTelefone.Text == "" || txtSobrenome.Text == "" || rdoTipo.SelectedValue == null)
+                if (txtSenha.Text != txtConfirmarSenha.Text)
                 {
-                    SiteMaster.ExibirAlert(this, "Por favor, preencha todos os campos antes de continuar");
+                    SiteMaster.ExibirAlert(this, "As senhas devem ser iguais.");
                 }
 
-                else
+                if (txtEmail.Text != txtConfirmarEmail.Text)
+                {
+                    SiteMaster.ExibirAlert(this, "Os emails devem ser iguais.");
+                }
+
+                if (2023-ano<18)
+                {
+                    SiteMaster.ExibirAlert(this, "Cadastro negado.");
+                }
+
+                if (2023 - ano > 130)
+                {
+                    SiteMaster.ExibirAlert(this, "Cadastro negado.");
+                }
+
+                if (txtNome.Text == "" || txtEmail.Text == "" || txtSenha.Text == "" || txtConfirmarSenha.Text == "" || txtConfirmarEmail.Text == "" || NasDia.Text == "" || NasMes.Text == "" || NasAno.Text == "" || txtTelefone.Text == "" || txtSobrenome.Text == "")
+                {
+                    SiteMaster.ExibirAlert(this, "Por favor, preencha todos os campos antes de continuar.");
+                }
+
+                if((txtSenha.Text == txtConfirmarSenha.Text)&&(txtEmail.Text == txtConfirmarEmail.Text)&&(2023 - ano >= 18) && (2023 - ano > 130) && (txtNome.Text != "" && txtEmail.Text != "" && txtSenha.Text != "" && txtConfirmarSenha.Text != "" && txtConfirmarEmail.Text != "" && NasDia.Text != "" && NasMes.Text != "" && NasAno.Text != "" && txtTelefone.Text != "" && txtSobrenome.Text != ""))
                 {
                     if (rdoTipo.SelectedValue == "Cuidador")
                     {
@@ -62,7 +82,7 @@ namespace WebApplication2.Paginas
                     txtSenha.Text = "";
                     txtTelefone.Text = "";
                     txtConfirmarEmail.Text = "";
-                    txtConfirmarSenha.Text = "";      
+                    txtConfirmarSenha.Text = "";               
                 }       
 
                 connection.Close();
