@@ -117,17 +117,17 @@ namespace WebApplication2.Paginas
             connection2.Close();
 
 
+            
 
 
-
-
+            
         }
 
         protected void SaveImage_Click(object sender, EventArgs e)
         {
-
-
-
+            
+        
+        
 
             string ID = Session["IDlogin"].ToString();
             string Tipo = Session["Tipologin"].ToString();
