@@ -139,16 +139,16 @@ namespace WebApplication2.Paginas
             {
                 if (Tipo == "idosos")
                 {
-                    file.SaveAs(caminho + "/" + ID + ".ijpg");
+                    file.SaveAs(caminho + "/" + ID + ".ipng");
                 }
 
                 if (Tipo == "cuidadores")
                 {
-                    file.SaveAs(caminho + "/" + ID + "c.jpg");
+                    file.SaveAs(caminho + "/" + ID + "c.png");
                 }
             }
 
-            img.ImageUrl = caminho + "/" + ID + ".jpg";
+            img.ImageUrl = caminho + "/" + ID + ".png";
         }
     }
 }
