@@ -36,6 +36,7 @@ namespace WebApplication2.Paginas
                 lblNascimento.Text = Nascimento;
                 lblNome.Text = Nome;
 
+                img.ImageUrl = "../img/" + ID + "c.png";
             }
             connection.Close();
         }
@@ -123,11 +124,10 @@ namespace WebApplication2.Paginas
 
         }
 
-        protected void SaveImage_Click(object sender, EventArgs e)
+        0
+
+        protected void img_Click(object sender, ImageClickEventArgs e)
         {
-
-
-
 
             string ID = Session["IDlogin"].ToString();
             string Tipo = Session["Tipologin"].ToString();
@@ -139,7 +139,7 @@ namespace WebApplication2.Paginas
             {
                 if (Tipo == "idosos")
                 {
-                    file.SaveAs(caminho + "/" + ID + ".ipng");
+                    file.SaveAs(caminho + "/" + ID + "i.png");
                 }
 
                 if (Tipo == "cuidadores")
@@ -148,7 +148,11 @@ namespace WebApplication2.Paginas
                 }
             }
 
-            img.ImageUrl = caminho + "/" + ID + ".png";
+            img.ImageUrl = "img/" + ID + "c.png";
+
+
+
+
         }
     }
 }
