@@ -10,7 +10,10 @@
         img.a {
   text-align: center;
 }
-
+        
+                 .img_redonda {
+                          border-radius: 50%;
+                        } 
     </style>
          
 
@@ -19,7 +22,10 @@
      
           <div class="col-lg-4"></div>
           <div class="col-lg-4">
-              <asp:Image runat="server" ID="img" CssClass="img.a"  />
+             
+        
+              <asp:ImageButton runat="server" width="215" height="200" ID="img" CssClass="img_redonda" />
+
           </div>
    
 
@@ -109,10 +115,7 @@
              <br> <asp:CheckBox ID="cbxNegocio" runat="server" Text="A negociar" /> 
             <br />
 
-            <asp:FileUpload runat="server" ID="file" />
-            
-            <asp:Button  runat="server" Text="Salvar" ID="SaveImage" OnClick="SaveImage_Click" CssClass="btn btn-sucess"/>   
-
+          
           <%--  fim das 3 colunas--%>
 
        </div>
