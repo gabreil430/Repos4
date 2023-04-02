@@ -8,12 +8,12 @@
 
     <style>
         img.a {
-  text-align: center;
-}
+        text-align: center;
+        }
         
-                 .img_redonda {
-                          border-radius: 50%;
-                        } 
+     .img_redonda {
+     border-radius: 50%;
+     } 
     </style>
          
 
@@ -22,11 +22,12 @@
      
           <div class="col-lg-4"></div>
           <div class="col-lg-4">
+              
              
         
               <asp:ImageButton runat="server" width="215" height="200" ID="img" CssClass="img_redonda" />
-
-          </div>
+              <asp:fileupload runat="server" ID="file" Text="Mudar Imagem de Perfil"/>
+             </div>
    
 
           <div class="col-lg-4" >    
@@ -132,7 +133,7 @@
        
           <asp:Button  runat="server" Text="Salvar" ID="btnSalvar"   OnClick="Confirmar_alteração_Click1" CssClass="btn btn-sucess, content"/>  
 
-        
+          <a href="Lista_de_perfil.aspx"> a></a>
 
     </div>
             

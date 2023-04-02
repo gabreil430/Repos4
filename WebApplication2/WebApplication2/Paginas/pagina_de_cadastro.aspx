@@ -80,7 +80,7 @@
         <br>
 
         <div></div>
-
+      
         <div style="text-align: center; padding-right:110px">
             <asp:Button runat="server" ID="btnConfirmar" Text="Confirmar" class="btn btn-success btn-lg" OnClick="btnConfirmar_Click" />
         </div>
@@ -89,6 +89,6 @@
     <div style="height: 900px"></div>
 
 
-    </div>
+ 
 
 </asp:Content>

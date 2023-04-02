@@ -11,6 +11,17 @@
     <div>
         <h1>Buscando profissional</h1>
     </div>
+    <div class="container">
+        <div class="section_title">
+            <h2 class="h3">Related courses</h2>
+
+    
+
+
+
+
+
+
 
 
     <div class="row">
