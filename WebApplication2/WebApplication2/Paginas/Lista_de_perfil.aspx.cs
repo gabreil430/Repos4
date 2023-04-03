@@ -13,5 +13,15 @@ namespace WebApplication2.Paginas
         {
 
         }
+
+        protected void Unnamed_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void NextI_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
