@@ -107,10 +107,10 @@
         <asp:TextBox runat="server" ID="txtValor" ></asp:TextBox>            
            
             <asp:DropDownList ID="moneyt" runat="server">
-            <asp:ListItem Text="Por hora" Value="Por hora"/>
-            <asp:ListItem Text="Por dia" Value="Por dia"/>
-            <asp:ListItem Text="Por semana" Value="Por semana"/>
-            <asp:ListItem Text="Por mês" Value="Por mês"/>
+            <asp:ListItem Text="por hora" Value="por hora"/>
+            <asp:ListItem Text="por dia" Value="por dia"/>
+            <asp:ListItem Text="por semana" Value="por semana"/>
+            <asp:ListItem Text="por mês" Value="por mês"/>
             </asp:DropDownList>
              <br> <asp:CheckBox ID="cbxNegocio" runat="server" Text="A negociar" /> 
             <br />

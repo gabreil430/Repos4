@@ -56,7 +56,7 @@ namespace WebApplication2.Paginas
                     SiteMaster.ExibirAlert(this, "Por favor, preencha todos os campos antes de continuar.");
                 }
 
-                if((txtSenha.Text == txtConfirmarSenha.Text)&&(txtEmail.Text == txtConfirmarEmail.Text)&&(2023 - ano >= 18) && (2023 - ano > 130) && (txtNome.Text != "" && txtEmail.Text != "" && txtSenha.Text != "" && txtConfirmarSenha.Text != "" && txtConfirmarEmail.Text != "" && NasDia.Text != "" && NasMes.Text != "" && NasAno.Text != "" && txtTelefone.Text != "" && txtSobrenome.Text != ""))
+                if((txtSenha.Text == txtConfirmarSenha.Text)&&(txtEmail.Text == txtConfirmarEmail.Text)&&(2023 - ano >= 18) && (txtNome.Text != "") && (txtEmail.Text != "" )&& (txtSenha.Text != "") && (txtConfirmarSenha.Text != "") && (txtConfirmarEmail.Text != "") && (NasDia.Text != "") && (NasMes.Text != "") && (NasAno.Text != "") && (txtTelefone.Text != "") && (txtSobrenome.Text != ""))
                 {
                     if (rdoTipo.SelectedValue == "Cuidador")
                     {
