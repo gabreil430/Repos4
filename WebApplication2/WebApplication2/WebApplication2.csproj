@@ -158,7 +158,6 @@
     <Content Include="Img\foto ana.jpeg" />
     <Content Include="Img\idosaum.jpg" />
     <Content Include="Img\idosodois.jpg" />
-    <Content Include="Paginas\Chat.aspx" />
     <Content Include="Paginas\Lista_de_perfil.aspx" />
     <Content Include="Paginas\pagina_de_cadastro.aspx" />
     <Content Include="Paginas\Pagina_inicial.aspx" />
@@ -212,13 +211,6 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
-    </Compile>
-    <Compile Include="Paginas\Chat.aspx.cs">
-      <DependentUpon>Chat.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Paginas\Chat.aspx.designer.cs">
-      <DependentUpon>Chat.aspx</DependentUpon>
     </Compile>
     <Compile Include="Paginas\Lista_de_perfil.aspx.cs">
       <DependentUpon>Lista_de_perfil.aspx</DependentUpon>
