@@ -26,10 +26,16 @@
     <div class="col-lg-4"></div>
     <div class="col-lg-4">
 
+     
+
+        <%-- <asp:ImageButton runat="server" Width="215" Height="200" ID="img" CssClass="img_redonda" OnClick="" />--%>
+        <asp:Image runat="server" ID="img" CssClass="img_redonda" data-bs-toggle="popover" Width="215" Height="200" />
 
 
-        <asp:ImageButton runat="server" Width="215" Height="200" ID="img" CssClass="img_redonda" />
         <asp:FileUpload runat="server" ID="file" Text="Mudar Imagem de Perfil" />
+
+
+
     </div>
 
 

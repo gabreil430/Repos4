@@ -120,17 +120,7 @@ namespace WebApplication2.Paginas
 
 
 
-
-
-        }
-
-        
-
-        protected void img_Click(object sender, ImageClickEventArgs e)
-        {
-
-            string ID = Session["IDlogin"].ToString();
-            string Tipo = Session["Tipologin"].ToString();
+            
 
 
 
@@ -154,5 +144,16 @@ namespace WebApplication2.Paginas
 
 
         }
+
+
+
+        protected void img_Click(object sender, ImageClickEventArgs e)
+        {
+
+
+
+        }
+
+      
     }
 }

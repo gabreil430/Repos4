@@ -35,6 +35,7 @@
             .ade:hover {
                 background-color: #959595;
                 color: white;
+            }
     </style>
 
     <div class="jumbotron" style="background-color: lightgray">
