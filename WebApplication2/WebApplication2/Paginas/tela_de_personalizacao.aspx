@@ -49,7 +49,7 @@
     </div>
 
     <p style="height: 200px"></p>
-    <h5>Por favor, preencha os campos a seguir para que seu perfil fique ainda mais completo e útil para quem visitá-lo: </h5>
+    <br /> <br /> <h5>Por favor, preencha os campos a seguir para que seu perfil fique ainda mais completo e útil para quem visitá-lo: </h5>
     <br />
 
 
@@ -59,20 +59,19 @@
 
 
         <h5>Email: </h5>
-        <br />
         <asp:Label runat="server" Text="teste@gmail.com" ID="lblEmail"></asp:Label><br />
         <br />
         <br />
 
         <h5>Nascimento: </h5>
-        <br />
+      
         <asp:Label runat="server" Text="22/04/2005" ID="lblNascimento"></asp:Label><br />
         <br />
         <br />
 
 
         <h5>Telefone: </h5>
-        <br />
+       
         <asp:Label runat="server" Text="(35)98401-1040" ID="lblTelefone"></asp:Label><br />
         <br />
         <br />
@@ -92,7 +91,7 @@
 
 
         <div>
-            <h5>Dias da semana necessários: </h5>
+            <asp:Label runat="server" Text="Dias da semana necessários: " ID="lblDiasDaSemana"></asp:Label><br />
             <br />
             <asp:CheckBox ID="CheckBox7" value="1" runat="server" Text="D" />
             <asp:CheckBox ID="CheckBox1" value="2" runat="server" Text="S" />
@@ -103,9 +102,10 @@
             <asp:CheckBox ID="CheckBox6" value="7" runat="server" Text="S" />
         </div>
         <asp:CheckBox ID="cbxDias" runat="server" Text="Dias específicos" />
+        <br /><br />
 
         <h5>Localização: </h5>
-        <br />
+       
         <asp:TextBox runat="server" ID="txtLocalizacao"></asp:TextBox>
         <br />
         <br />
@@ -127,16 +127,16 @@
 
     <div class="col-lg-4">
         <p style="height: 45px"></p>
-        <h5>Valor oferecido: </h5>
-        <br />
+        <asp:Label runat="server" Text="Valor oferecido: " ID="lblValor"></asp:Label>
+      
         <asp:Label runat="server" Text="R$" ID="lblRS"></asp:Label>
         <asp:TextBox runat="server" ID="txtValor"></asp:TextBox>
 
         <asp:DropDownList ID="moneyt" runat="server">
-            <asp:ListItem Text="Por hora" Value="Por hora" />
-            <asp:ListItem Text="Por dia" Value="Por dia" />
-            <asp:ListItem Text="Por semana" Value="Por semana" />
-            <asp:ListItem Text="Por mês" Value="Por mês" />
+            <asp:ListItem Text="Por hora" Value="por hora" />
+            <asp:ListItem Text="Por dia" Value="por dia" />
+            <asp:ListItem Text="Por semana" Value="por semana" />
+            <asp:ListItem Text="Por mês" Value="por mês" />
         </asp:DropDownList>
         <br>
         <asp:CheckBox ID="cbxNegocio" runat="server" Text="A negociar" />
@@ -149,19 +149,20 @@
     <div class="col-lg-12">
         <p style="height: 10px"></p>
         <h5>Descrição: </h5>
-        <br />
+      
 
         <asp:Label runat="server" Text="Esta é uma das partes mais importantes do seu perfil. Informe suas necessidades e particularidades (como deficiências e medicações).
          Se preciso, especifique dados mensionados acima. Lembre-se que uma boa descrição auxiliará a encontrar o(a) cuidador(a) mais adequado para suas necessidades."
-            ID="Label1"></asp:Label><br />
+            ID="lblDescrição"></asp:Label><br />
 
         <asp:TextBox runat="server" ID="txtDescricao" Width="10000px" TextMode="MultiLine" Rows="5"></asp:TextBox><br />
         <br />
 
 
-        <asp:Button runat="server" Text="Salvar" ID="btnSalvar" OnClick="Confirmar_alteração_Click1" CssClass="btn btn-sucess, content" />
+        <asp:Button runat="server" Text="Salvar" ID="btnSalvar" OnClick="Confirmar_alteração_Click1" CssClass="btn btn-sucess, content" /> <br /> <br />
 
-        <a href="Lista_de_perfil.aspx">a></a>
+
+
 
     </div>
 
