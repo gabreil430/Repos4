@@ -26,6 +26,12 @@
         box-sizing: border-box;
         font-family: 'Poppins', sans-serif;
     }
+     
+
+                body.dark.home.text{
+            color: var(--text - color);
+            }
+           
 
     :root{
         /* ===== Colors ===== */
@@ -34,7 +40,7 @@
         --primary-color: #03e9f4;
         --primary-color-light: #F6F5FF;
         --toggle-color: #DDD;
-        --text-color: black;
+        --text-color: #000000;
 
         /* ====== Transition ====== */
         --tran-03: all 0.2s ease;
@@ -60,9 +66,12 @@
         --primary-color: #3a3b3c;
         --primary-color-light: #3a3b3c;
         --toggle-color: #fff;
-        --text-color: #ccc;
+        --text-color: #fff;
+        color: var(--text-color);
+        
     }
 
+ 
     /* ===== Sidebar ===== */
      .sidebar{
         position: fixed;
@@ -406,27 +415,24 @@
                     <i class='bx bx-search icon'></i>
                     <input type="text" placeholder="Search...">
                 </li>
-
+                    <li class="nav-link">
+                        <a href="../Paginas/Meu_perfil.aspx">
+                            <i class='bx bx-bar-chart-alt-2 icon' ></i>
+                            <span class="text nav-text">Meu perfil</span>
+                        </a>
+                    </li>
                 <ul class="menu-links">
                        <li class="nav-link">
                         <a href="../Paginas/Lista_de_perfil.aspx">
                             <i class='bx bx-home-alt icon' ></i>
-                            <span class="text nav-text">Explorar</span>
+                            <span class="text nav-text">Explorar perfis</span>
                             <ul class="collapse list-unstyled">
                                 
                             </ul>
                         </a>
                     </li>
-
                     <li class="nav-link">
-                        <a href="../Paginas/Perfil.aspx">
-                            <i class='bx bx-bar-chart-alt-2 icon' ></i>
-                            <span class="text nav-text">Visualizar</span>
-                        </a>
-                    </li>
-
-                    <li class="nav-link">
-                        <a href="../Paginas/tela_de_personalizacao.aspx">
+                        <a href="../Paginas/Pagina_inicial.aspx">
                             <i class='bx bx-bell icon'></i>
                             <span class="text nav-text">Atualizar conta</span>
                         </a>
@@ -434,7 +440,7 @@
                  
 
                     <li class="nav-link">
-                        <a href="../Supervisor/Suporte.aspx">
+                        <a href="../Paginas/Chat.aspx">
                             <i class='bx bx-heart icon' ></i>
                             <span class="text nav-text">Suporte</span>
                         </a>
@@ -463,6 +469,7 @@
                         <i class='bx bx-moon icon moon'></i>
                         <i class='bx bx-sun icon sun'></i>
                     </div>
+
                     <span class="mode-text text">Dark mode</span>
 
                     <div class="toggle-switch">
@@ -483,7 +490,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-              <%--  <p>&copy; <%: DateTime.Now.Year %> - </p>--%>
+                <p>&copy; <%: DateTime.Now.Year %> - </p>
             </footer>
         </div>
 

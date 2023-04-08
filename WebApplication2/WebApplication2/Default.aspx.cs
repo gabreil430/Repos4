@@ -48,10 +48,11 @@ namespace WebApplication2
                     if (txtSenha.Text == Senha)
                     {
                     Response.Redirect("http://localhost:49953/Paginas/tela_de_personalizacao");
+                    //Response.Redirect("http://localhost:49953/personalizacao_cuidador");
                     //SiteMaster.ExibirAlert(this, "REDIRECIONAR CUIDADORES");
 
 
-                }
+                    }
                     else
                     {
                         SiteMaster.ExibirAlert(this, "Senha incorreta.");

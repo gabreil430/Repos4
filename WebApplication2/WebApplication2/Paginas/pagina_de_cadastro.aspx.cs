@@ -27,6 +27,7 @@ namespace WebApplication2.Paginas
                     rollingInterval: RollingInterval.Hour)
                     .CreateLogger();
             int ano = Convert.ToInt32(NasAno.Text);
+            int mes = Convert.ToInt32(NasMes.Text);
             try
             {
                 connection.Open();
@@ -43,12 +44,17 @@ namespace WebApplication2.Paginas
 
                 if (2023-ano<18)
                 {
-                    SiteMaster.ExibirAlert(this, "Cadastro negado.");
+                    SiteMaster.ExibirAlert(this, "Cadastro negado (menor de idade).");
                 }
 
                 if (2023 - ano > 130)
                 {
-                    SiteMaster.ExibirAlert(this, "Cadastro negado.");
+                    SiteMaster.ExibirAlert(this, "Cadastro negado (idade inválida).");
+                }
+
+                if ((mes>12)||(mes<1))
+                {
+                    SiteMaster.ExibirAlert(this, "Cadastro negado (mês inválido).");
                 }
 
                 if (txtNome.Text == "" || txtEmail.Text == "" || txtSenha.Text == "" || txtConfirmarSenha.Text == "" || txtConfirmarEmail.Text == "" || NasDia.Text == "" || NasMes.Text == "" || NasAno.Text == "" || txtTelefone.Text == "" || txtSobrenome.Text == "")
@@ -56,7 +62,7 @@ namespace WebApplication2.Paginas
                     SiteMaster.ExibirAlert(this, "Por favor, preencha todos os campos antes de continuar.");
                 }
 
-                if((txtSenha.Text == txtConfirmarSenha.Text)&&(txtEmail.Text == txtConfirmarEmail.Text)&&(2023 - ano >= 18) && (2023 - ano > 130) && (txtNome.Text != "" && txtEmail.Text != "" && txtSenha.Text != "" && txtConfirmarSenha.Text != "" && txtConfirmarEmail.Text != "" && NasDia.Text != "" && NasMes.Text != "" && NasAno.Text != "" && txtTelefone.Text != "" && txtSobrenome.Text != ""))
+                if((mes < 12) && (2023 - ano <= 130) &&(mes > 1) &&(txtSenha.Text == txtConfirmarSenha.Text)&&(txtEmail.Text == txtConfirmarEmail.Text)&&(2023 - ano >= 18) && (txtNome.Text != "") && (txtEmail.Text != "" )&& (txtSenha.Text != "") && (txtConfirmarSenha.Text != "") && (txtConfirmarEmail.Text != "") && (NasDia.Text != "") && (NasMes.Text != "") && (NasAno.Text != "") && (txtTelefone.Text != "") && (txtSobrenome.Text != ""))
                 {
                     if (rdoTipo.SelectedValue == "Cuidador")
                     {

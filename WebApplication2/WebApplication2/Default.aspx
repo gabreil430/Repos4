@@ -5,10 +5,9 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="content" runat="server">
     <link rel="stylesheet" href="content/style.css" />
     <div>
-
   
-        <div class="login">
-            <h2>Login</h2>
+        <div class="login" style="background-color: #172031">
+            <h2>Entrar</h2>
             <div class="box-user" style="margin-left: 5vh;">
                 <p style="color:white">Usuário:</p>
                 <label style="color:white"></label>
@@ -22,7 +21,6 @@
             </div>
             <div>
                  <a href="Paginas/pagina_de_cadastro.aspx" class="forget" style="margin-top: 2vh;margin-left: 15vh;">Criar uma conta.</a>
-                <a href="#" class="forget" style="margin-top: 2vh;margin-left: 15vh;">Esqueci minha senha.</a>
             </div>
             <asp:LinkButton runat="server" ID="btnEntrar" OnClick="btnEntrar_Click" CssClass="btn" style="margin-left: 17vh">
    <span></span>

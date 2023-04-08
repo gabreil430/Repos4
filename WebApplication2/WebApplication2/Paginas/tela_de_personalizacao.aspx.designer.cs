@@ -69,6 +69,15 @@ namespace WebApplication2.Paginas
         protected global::System.Web.UI.WebControls.Label lblTelefone;
 
         /// <summary>
+        /// Controle lblDiasDaSemana.
+        /// </summary>
+        /// <remarks>
+        /// Campo gerado automaticamente.
+        /// Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblDiasDaSemana;
+
+        /// <summary>
         /// Controle CheckBox7.
         /// </summary>
         /// <remarks>
@@ -168,6 +177,15 @@ namespace WebApplication2.Paginas
         protected global::System.Web.UI.WebControls.RadioButtonList rdogenero;
 
         /// <summary>
+        /// Controle lblValor.
+        /// </summary>
+        /// <remarks>
+        /// Campo gerado automaticamente.
+        /// Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblValor;
+
+        /// <summary>
         /// Controle lblRS.
         /// </summary>
         /// <remarks>
@@ -204,13 +222,13 @@ namespace WebApplication2.Paginas
         protected global::System.Web.UI.WebControls.CheckBox cbxNegocio;
 
         /// <summary>
-        /// Controle Label1.
+        /// Controle lblDescrição.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label1;
+        protected global::System.Web.UI.WebControls.Label lblDescrição;
 
         /// <summary>
         /// Controle txtDescricao.

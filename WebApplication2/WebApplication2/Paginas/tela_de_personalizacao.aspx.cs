@@ -2,9 +2,12 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Remoting.Messaging;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using System.Xml.Linq;
+
 
 namespace WebApplication2.Paginas
 {
@@ -12,34 +15,103 @@ namespace WebApplication2.Paginas
     {
         private MySqlConnection connection;
         private MySqlConnection connection2;
+        private MySqlConnection connection3;
         protected void Page_Load(object sender, EventArgs e)
         {
+
+
             connection = new MySqlConnection(SiteMaster.ConnectionString);
             connection2 = new MySqlConnection(SiteMaster.ConnectionString);
+            connection3 = new MySqlConnection(SiteMaster.ConnectionString);
             string ID = Session["IDlogin"].ToString();
             string Tipo = Session["Tipologin"].ToString();
+            //string ID = "3";
+            //string Tipo = "cuidadores";
 
-            connection.Open();
-            var comando = new MySqlCommand($@"select Nome, Email, Telefone, Nascimento from {Tipo} where ID= @v1", connection);
-            comando.Parameters.Add(new MySqlParameter("@v1", ID));
-            var reader = comando.ExecuteReader();
 
-            if (reader.Read())
+            if (Tipo == "idosos")
             {
-                string Email = reader.GetString("Email");
-                string Nome = reader.GetString("Nome");
-                string Telefone = reader.GetString("Telefone");
-                string Nascimento = reader.GetString("Nascimento");
-
-                lblEmail.Text = Email;
-                lblTelefone.Text = Telefone;
-                lblNascimento.Text = Nascimento;
-                lblNome.Text = Nome;
-
-                img.ImageUrl = "../img/" + ID + "c.png";
+                img.ImageUrl = "img/" + ID + "i.png";
             }
-            connection.Close();
+            if (Tipo == "cuidadores")
+            {
+                img.ImageUrl = "img/" + ID + "c.png";
+            }
+
+            if (Tipo=="cuidadores")
+            {
+                lblDiasDaSemana.Text = "Dias da semana disponíveis:";
+                lblValor.Text = "Valor cobrado";
+                lblDescrição.Text = "Esta é uma das partes mais importantes do seu perfil. Informe suas formações, especificações e diferenciais. Se preciso, especifique dados mensionados acima. Lembre - se que uma boa descrição auxiliará a encontrar o paciente mais adequado para você.";
+            }
+
+
+            connection3.Open();
+            var comando2 = new MySqlCommand($@"select Descrição, Localização, TempoDinheiro, Dinheiro from {Tipo} where ID= @v1", connection3);
+            comando2.Parameters.Add(new MySqlParameter("@v1", ID));
+            var reader2 = comando2.ExecuteReader();
+
+            try
+            {
+                if (reader2.Read())
+                {
+                    if ((reader2.GetString("Descrição") != null) || (reader2.GetString("Localização") != null) || (reader2.GetString("TempoDinheiro") != null) || (reader2.GetString("Dinheiro") != null))
+                    {
+                        connection3.Close();
+                        Response.Redirect("http://localhost:49953/Paginas/Lista_de_perfil");
+
+                    }
+
+                }
+            }
+            catch
+            {
+                connection.Open();
+                var comando = new MySqlCommand($@"select Nome, Email, Sexo, Telefone, Nascimento from {Tipo} where ID= @v1", connection);
+                comando.Parameters.Add(new MySqlParameter("@v1", ID));
+                var reader = comando.ExecuteReader();
+
+                if (reader.Read())
+                {
+                    string Email = reader.GetString("Email");
+                    string Nome = reader.GetString("Nome");
+                    string Telefone = reader.GetString("Telefone");
+                    string Nascimento = reader.GetString("Nascimento");
+                    string Sexo = reader.GetString("Sexo");
+
+                if (!IsPostBack)
+                {
+                    if (Sexo == "Feminino")
+                    {
+                        SiteMaster.ExibirAlert(this, "Bem-vinda, " + Nome + "!");
+                    }
+                    else
+                    {
+                        SiteMaster.ExibirAlert(this, "Bem-vindo, " + Nome + "!");
+                    }
+                }
+
+                    lblEmail.Text = Email;
+                    lblTelefone.Text = Telefone;
+                    lblNascimento.Text = Nascimento;
+                    lblNome.Text = Nome;
+
+                    img.ImageUrl = "../img/" + ID + "c.png";
+                }
+                connection.Close();
+            }
+
+            finally
+            {
+                connection3.Close();
+            }
         }
+
+
+           
+
+
+
 
 
         protected void Confirmar_alteração_Click1(object sender, EventArgs e)
@@ -117,13 +189,6 @@ namespace WebApplication2.Paginas
             comando1.ExecuteNonQuery();
             connection2.Close();
 
-
-
-
-            
-
-
-
             var caminho = Server.MapPath("~") + "/img";
             if (file.HasFile)
             {
@@ -138,22 +203,10 @@ namespace WebApplication2.Paginas
                 }
             }
 
-            img.ImageUrl = "img/" + ID + "c.png";
-
-
-
-
-        }
-
-
-
-        protected void img_Click(object sender, ImageClickEventArgs e)
-        {
-
+            Response.Redirect("http://localhost:49953/Paginas/Lista_de_perfil");
 
 
         }
 
-      
     }
 }
