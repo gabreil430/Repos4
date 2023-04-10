@@ -17,10 +17,10 @@ namespace WebApplication2.Paginas
         {
             connection = new MySqlConnection(SiteMaster.ConnectionString);
             connection2 = new MySqlConnection(SiteMaster.ConnectionString);
-            ////string ID = Session["IDlogin"].ToString();
-            ////string Tipo = Session["Tipologin"].ToString();
-            string ID = "15";
-            string Tipo = "idosos";
+            string ID = Session["IDlogin"].ToString();
+            string Tipo = Session["Tipologin"].ToString();
+            //string ID = "15";
+            //string Tipo = "idosos";
 
             connection2.Open();
             var comando = new MySqlCommand($@"select Nome, Email, Telefone, Nascimento, Sexo, Descrição, Localização, DiasEspecíficos, Domingo, Segunda, Terça, Quarta, Quinta, Sexta, Sábado, Dinheiro, Negociação, TempoDinheiro from {Tipo} where ID= @v1", connection2);
@@ -100,15 +100,27 @@ namespace WebApplication2.Paginas
                 txtValor.Text = Dinheiro;              
 
                 connection2.Close();
+
+
+                //if (Tipo == "idosos")
+                //{
+                //    imgperfil.ImageUrl = "../img/" + ID + "i.png";
+                //}
+
+                //if (Tipo == "cuidadores")
+                //{
+                //    imgperfil.ImageUrl = "../img/" + ID + "c.png";
+                //}
+
             }
         }
 
         protected void btnAtualizarPerfil_Click(object sender, EventArgs e)
         {
-            //string ID = Session["IDlogin"].ToString();
-            //string Tipo = Session["Tipologin"].ToString();
-            string ID = "3";
-            string Tipo = "cuidadores";
+            string ID = Session["IDlogin"].ToString();
+            string Tipo = Session["Tipologin"].ToString();
+            //string ID = "3";
+            //string Tipo = "cuidadores";
             int dias = 0;
             int d = 0;
             int s1 = 0;

@@ -36,10 +36,10 @@
     :root{
         /* ===== Colors ===== */
         --body-color: #fff;
-        --sidebar-color: #fff;
+        --sidebar-color: #DDD;
         --primary-color: #03e9f4;
         --primary-color-light: #F6F5FF;
-        --toggle-color: #DDD;
+        --toggle-color: #fff;
         --text-color: #000000;
 
         /* ====== Transition ====== */

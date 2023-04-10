@@ -16,6 +16,13 @@
         .slick-next:before {
             color: #03e9f4 !important;
         }
+
+
+        .img_redonda {
+            border-radius: 50%;
+        }
+    
+
     </style>
 
 
@@ -40,7 +47,7 @@
     <br />
 
 
-    <div>
+    <div class="container" style="background-color:darkgray">
         <h1>Buscando profissional</h1>
     </div>
 
@@ -84,7 +91,7 @@
 
      <br /> <br /> <br />
 
-    <div>
+    <div class="container" style="background-color:darkgray"s>
         <h1>Oferecendo seus serviços</h1>
     </div>
 
