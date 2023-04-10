@@ -6,6 +6,7 @@
 
 
             <div class="header">
+                    <div>
                     <style>
 
 
@@ -16,6 +17,7 @@
     
 
         <%-- <asp:ImageButton runat="server" Width="215" Height="200" ID="img" CssClass="img_redonda" OnClick="" />--%>
+            
         <asp:Image runat="server" ID="imgperfil" CssClass="img_redonda" data-bs-toggle="popover" Width="215" Height="200" />
                  
                     
@@ -36,12 +38,15 @@
 	</a><br/>
 	<a href="tel:+5535984011040"></a><br/>
 
-               
+              </div> 
 
             <div class="about">
                 <h3>Sobre mim</h3>
+              
 
+</div>
 
+    <div class="jumbotron" style="height:500px">
    <%-- coluna 1--%>
      <div class="col-lg-4" >        
          <br />         
@@ -94,20 +99,26 @@
         <h5>Valor: </h5>
             <asp:Label runat="server" Text="" ID="lblDinheiro"></asp:Label><br /><br />
           
-
+            
+           
           
           <%--  fim das 3 colunas--%>
 
        </div>
         
-    <div class="col-lg-12" >
+    <div class="col-lg-8" >
         <p style="height: 10px"></p>
         <h5>Descrição: </h5>
         <asp:Label runat="server" Text="" ID="lblDescrição"></asp:Label><br /><br />
 
     </div>
 
- <asp:Button runat="server" Text="Avaliar perfil" ID="btnFazerComent" OnClick="btnFazerComent_Click"/> <br /> <br />
-     <asp:Button runat="server" Text="Visualizar avaliações" ID="btnVisuComent" OnClick="btnVisuComent_Click"/> <br /> <br />
+         <div class="col-lg-4" >
+             <br><br><br>
+        <asp:Button runat="server" Text="Avaliar perfil" CssClass="btn-primary" ID="btnFazerComent" OnClick="btnFazerComent_Click"/> <br /><br>
+           <asp:Button runat="server" Text="Visualizar avaliações" CssClass="btn-primary" ID="btnVisuComent" OnClick="btnVisuComent_Click"/> 
+</div>
 
+
+        </div>
 </asp:Content>

@@ -148,7 +148,7 @@
 
     <div class="col-lg-12">
         <p style="height: 10px"></p>
-        <h5>Descrição: </h5>
+        <h5>Descrição: </h5><br />
       
 
         <asp:Label runat="server" Text="Esta é uma das partes mais importantes do seu perfil. Informe suas necessidades e particularidades (como deficiências e medicações).

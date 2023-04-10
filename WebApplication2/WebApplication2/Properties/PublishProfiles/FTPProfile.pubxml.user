@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAArbAZVXskbUeABzm8bJbXdAAAAAACAAAAAAAQZgAAAAEAACAAAABg1YengFSJPhHsIT2dUAqcH0GuU0uHeikUz8YvtrYSyAAAAAAOgAAAAAIAACAAAAC3U3+luGgndvs7ttNTKfB2uTzSK/zoOdd8tqL4sxRW0CAAAAC6WbxkhvTUiVaTco/rtne4H78QoB8EHo6UNWOi9AuXt0AAAAD3Vkq0fHaheZ4YZ5ysV/GDL69tKeFfpzejWSCC/HUjheIijAfIGvju/Oc0/0IOto9moSe+oKWoKeYXMzLv0gXm</EncryptedPassword>
+    <_PublishTargetUrl>ftp://win5231.site4now.net</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>04/10/2023 02:22:05</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>04/10/2023 02:22:05</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.bootstrap.dll">
+      <publishTime>04/10/2023 02:22:05</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>04/10/2023 02:22:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>04/10/2023 02:22:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Web.Optimization.WebForms.dll">
+      <publishTime>04/10/2023 02:22:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>04/10/2023 02:22:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.FileProviders.Abstractions.dll">
+      <publishTime>04/10/2023 02:22:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Primitives.dll">
+      <publishTime>04/10/2023 02:22:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.MSAjax.dll">
+      <publishTime>04/10/2023 02:22:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.WebForms.dll">
+      <publishTime>04/10/2023 02:22:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>04/10/2023 02:22:05</publishTime>
+    </File>
+    <File Include="bin/MySqlConnector.dll">
+      <publishTime>04/10/2023 02:22:05</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/10/2023 02:22:05</publishTime>
+    </File>
+    <File Include="bin/Serilog.dll">
+      <publishTime>04/10/2023 02:22:05</publishTime>
+    </File>
+    <File Include="bin/Serilog.Sinks.File.dll">
+      <publishTime>04/10/2023 02:22:06</publishTime>
+    </File>
+    <File Include="bin/Serilog.Sinks.File.pdb">
+      <publishTime>04/10/2023 02:22:06</publishTime>
+    </File>
+    <File Include="Bundle.config">
+      <publishTime>04/10/2023 02:22:04</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>04/10/2023 04:05:40</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>04/10/2023 02:22:05</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/10/2023 02:22:04</publishTime>
+    </File>
+    <File Include="LogarIdoso.Master">
+      <publishTime>04/10/2023 04:05:38</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>04/10/2023 04:40:53</publishTime>
+    </File>
+    <File Include="Site.Mobile.Master">
+      <publishTime>04/10/2023 02:22:04</publishTime>
+    </File>
+    <File Include="ViewSwitcher.ascx">
+      <publishTime>04/10/2023 02:22:04</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/10/2023 05:44:51</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

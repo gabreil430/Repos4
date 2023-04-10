@@ -5,17 +5,17 @@
 
 
     <br>
-    <h1 style="text-align: center">Cadastro</h1>
+    <h1 style="text-align: center;" class="container">Cadastro</h1>
     <br>
-
+     <div class="jumbotron" style="background-color: lightgray; /*border: dashed*/">
     <div class="col-lg-6">
         <br>
         <br>
         <br>
-        <div class="jumbotron, col-sm-4" style="background-color: white"></div>
+        <div class=" col-sm-3"></div>
 
 
-        <div class="jumbotron, col-sm-4" style="background-color: white; /*border: dashed*/">
+        <div class="jumbotron, col-sm-6">
 
 
 
@@ -57,7 +57,7 @@
 
 
 
-    <div class="col-lg-6">
+    <div class="col-lg-5">
 
         <br>
         <br>
@@ -86,9 +86,9 @@
         </div>
     </div>
 
-    <div style="height: 900px"></div>
+    <div style="height: 600px"></div>
 
-
+         
     </div>
 
 </asp:Content>

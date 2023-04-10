@@ -36,7 +36,7 @@
     :root{
         /* ===== Colors ===== */
         --body-color: #fff;
-        --sidebar-color: #fff;
+        --sidebar-color: #DDD;
         --primary-color: #03e9f4;
         --primary-color-light: #F6F5FF;
         --toggle-color: #DDD;
@@ -397,7 +397,7 @@
             <header>
                 <div class="image-text">
                     <span class="image">
-                        <a href="Paginas/Perfil.aspx"><img src="img" width="70" height="50" style="border-radius:50%" class="foto_perfil" alt="Foto de perfil"></a>
+                        <a href="Paginas/Perfil.aspx"><img src="../img/oldbook.jfif" width="70" height="50" style="border-radius:50%" class="foto_perfil"></a>
                     </span>
 
                     <div class="text logo-text">
@@ -470,7 +470,7 @@
                         <i class='bx bx-sun icon sun'></i>
                     </div>
 
-                    <span class="mode-text text">Dark mode</span>
+                    <span class="mode-text text">Modo escuro</span>
 
                     <div class="toggle-switch">
                         <span class="switch"></span>
@@ -517,9 +517,9 @@ const body = document.querySelector('body'),
             body.classList.toggle("dark");
     
             if(body.classList.contains("dark")){
-                modeText.innerText = "Light mode";
+                modeText.innerText = "Modo claro";
             }else{
-                modeText.innerText = "Dark mode";
+                modeText.innerText = "Modo escuro";
         
             }
         });

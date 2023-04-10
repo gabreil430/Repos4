@@ -17,10 +17,20 @@ namespace WebApplication2.Paginas
         {
             connection = new MySqlConnection(SiteMaster.ConnectionString);
             connection2 = new MySqlConnection(SiteMaster.ConnectionString);
-            ////string ID = Session["IDlogin"].ToString();
-            ////string Tipo = Session["Tipologin"].ToString();
-            string ID = "15";
-            string Tipo = "idosos";
+            string ID = Session["IDlogin"].ToString();
+            string Tipo = Session["Tipologin"].ToString();
+            //string ID = "15";
+            //string Tipo = "idosos";
+
+            if (Tipo == "idosos")
+            {
+                img.ImageUrl = "../img/" + ID + "i.png";
+            }
+
+            if (Tipo == "cuidadores")
+            {
+                img.ImageUrl = "../img/" + ID + "c.png";
+            }
 
             connection2.Open();
             var comando = new MySqlCommand($@"select Nome, Email, Telefone, Nascimento, Sexo, Descrição, Localização, DiasEspecíficos, Domingo, Segunda, Terça, Quarta, Quinta, Sexta, Sábado, Dinheiro, Negociação, TempoDinheiro from {Tipo} where ID= @v1", connection2);
@@ -181,8 +191,12 @@ namespace WebApplication2.Paginas
             comando1.ExecuteNonQuery();
             //SiteMaster.ExibirAlert(this, "Perfil atualizado com sucesso!");
             //Thread.Sleep(5000);
-            Response.Redirect("http://localhost:49953/Paginas/Lista_de_perfil");
+            //Response.Redirect("http://localhost:49953/Paginas/Lista_de_perfil");
             connection.Close();
+
+            ScriptManager.RegisterStartupScript(this, GetType(), "displayalertmessage",
+    "alert('Perfil atualizado com sucesso!'); setTimeout(function() { window.location.href = 'http://localhost:49953/Paginas/Lista_de_perfil'; }, 1);", true);
+
         }
     }
 }

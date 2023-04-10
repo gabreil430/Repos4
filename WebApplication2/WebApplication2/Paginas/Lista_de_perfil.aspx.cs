@@ -21,12 +21,12 @@ namespace WebApplication2.Paginas
             connection = new MySqlConnection(SiteMaster.ConnectionString);
 
             //Arrumar ID e Tipo pois estão pré determinados, o perfil n corresponde ao que eu inseri no cadastro
-            string ID = Session["IDlogin"].ToString();
-            string Tipo = Session["Tipologin"].ToString();
+            //string ID = Session["IDlogin"].ToString();
+            //string Tipo = Session["Tipologin"].ToString();
 
-            //string ID = "15";
-            //string Tipo = "idosos";
-
+            string ID = "15";
+            string Tipo = "idosos";
+           
 
 
 
@@ -78,6 +78,19 @@ namespace WebApplication2.Paginas
             Img10.ImageUrl = "../img/" + Session["IDp10"].ToString() + "c.png";
             Img11.ImageUrl = "../img/" + Session["IDp11"].ToString() + "c.png";
             Img12.ImageUrl = "../img/" + Session["IDp12"].ToString() + "c.png";
+
+            lbli1.Text = "Maria Aparecida - Piranguinho";
+            lbli2.Text = "Ildebrando Dias - Itajubá";
+            lbli3.Text = "Carlos da Silva - Itajubá";
+            lbli4.Text = "Marta Pereira - Itajubá";
+            lbli5.Text = "Carlos Carvalho - SP";
+            lbli6.Text = "Araci Dias - RJ";
+            lbli7.Text = "Giovana Simão - Itajubá";
+            lbli8.Text = "Emilly Vitória - Piranguinho";
+            lbli9.Text = "Sandra Maria - RJ";
+            lbli10.Text = "Douglas Gabriel - Itajubá";
+            lbli11.Text = "Ana Souza - Piranguinho";
+            lbli12.Text = "Andrew Garfield - Los Angeles";
         }
 
         protected void img_Click(object sender, ImageClickEventArgs e)
